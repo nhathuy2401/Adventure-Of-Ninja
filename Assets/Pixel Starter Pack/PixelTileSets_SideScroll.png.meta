@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 0140d5758786312489575e9d6bdf256b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1023674530217036194
+    second: PixelTileSets_SideScroll_0
+  - first:
+      213: -823879593709421764
+    second: PixelTileSets_SideScroll_1
+  - first:
+      213: -847535659889054243
+    second: PixelTileSets_SideScroll_2
+  - first:
+      213: 19545031023203561
+    second: PixelTileSets_SideScroll_3
+  - first:
+      213: -2514644753738103857
+    second: PixelTileSets_SideScroll_4
+  - first:
+      213: 4526228127816053797
+    second: PixelTileSets_SideScroll_5
+  - first:
+      213: 8110972303512268685
+    second: PixelTileSets_SideScroll_6
+  - first:
+      213: 1908028665529430919
+    second: PixelTileSets_SideScroll_7
+  - first:
+      213: -4924908824017149107
+    second: PixelTileSets_SideScroll_8
+  - first:
+      213: -3855405931914335363
+    second: PixelTileSets_SideScroll_9
+  - first:
+      213: 2915892266968375138
+    second: PixelTileSets_SideScroll_10
+  - first:
+      213: -6122545363611067775
+    second: PixelTileSets_SideScroll_11
+  - first:
+      213: 8234790458781963446
+    second: PixelTileSets_SideScroll_12
+  - first:
+      213: 8111630501991441625
+    second: PixelTileSets_SideScroll_13
+  - first:
+      213: -1253655429441194708
+    second: PixelTileSets_SideScroll_0
+  - first:
+      213: 7625273637840397555
+    second: PixelTileSets_SideScroll_1
+  - first:
+      213: -4219723549490616703
+    second: PixelTileSets_SideScroll_2
+  - first:
+      213: 111545987850563872
+    second: PixelTileSets_SideScroll_3
+  - first:
+      213: -742763114564709635
+    second: PixelTileSets_SideScroll_4
+  - first:
+      213: -9112831499677363878
+    second: PixelTileSets_SideScroll_5
+  - first:
+      213: -9180131421183072868
+    second: PixelTileSets_SideScroll_6
+  - first:
+      213: -1483849080215744900
+    second: PixelTileSets_SideScroll_7
+  - first:
+      213: -4156240788625427876
+    second: PixelTileSets_SideScroll_8
+  - first:
+      213: 439964508364395746
+    second: PixelTileSets_SideScroll_9
+  - first:
+      213: -5129446992378682318
+    second: PixelTileSets_SideScroll_10
+  - first:
+      213: -5621881022913229882
+    second: PixelTileSets_SideScroll_11
+  - first:
+      213: 5383603307685477360
+    second: PixelTileSets_SideScroll_12
+  - first:
+      213: 7488443648356336460
+    second: PixelTileSets_SideScroll_13
+  - first:
+      213: 6464965635799969347
+    second: PixelTileSets_SideScroll_14
+  - first:
+      213: -6623663516093699411
+    second: PixelTileSets_SideScroll_15
+  - first:
+      213: 4565055759830586512
+    second: PixelTileSets_SideScroll_16
+  - first:
+      213: -4082704158783572212
+    second: PixelTileSets_SideScroll_17
+  - first:
+      213: -7920503158241153294
+    second: PixelTileSets_SideScroll_18
+  - first:
+      213: -320052442095833869
+    second: PixelTileSets_SideScroll_19
+  - first:
+      213: -7762534816756953181
+    second: PixelTileSets_SideScroll_20
+  - first:
+      213: -403599472784642372
+    second: PixelTileSets_SideScroll_21
+  - first:
+      213: -8977044911643354776
+    second: PixelTileSets_SideScroll_22
+  - first:
+      213: 6177285595147967855
+    second: PixelTileSets_SideScroll_23
+  - first:
+      213: 2900382955587200623
+    second: PixelTileSets_SideScroll_24
+  - first:
+      213: -5240890711140727732
+    second: PixelTileSets_SideScroll_25
+  - first:
+      213: -8617653956728048891
+    second: PixelTileSets_SideScroll_26
+  - first:
+      213: 8981011571175851402
+    second: PixelTileSets_SideScroll_27
+  - first:
+      213: 3031941791696037830
+    second: PixelTileSets_SideScroll_28
+  - first:
+      213: 5092878307939359418
+    second: PixelTileSets_SideScroll_29
+  - first:
+      213: 6020579773851511678
+    second: PixelTileSets_SideScroll_30
+  - first:
+      213: -3700324364072642707
+    second: PixelTileSets_SideScroll_31
+  - first:
+      213: 8654559823015572958
+    second: PixelTileSets_SideScroll_32
+  - first:
+      213: -8358239983203021730
+    second: PixelTileSets_SideScroll_33
+  - first:
+      213: -7395527499150607470
+    second: PixelTileSets_SideScroll_34
+  - first:
+      213: -8133028041185066876
+    second: PixelTileSets_SideScroll_35
+  - first:
+      213: 1047210387966303834
+    second: PixelTileSets_SideScroll_36
+  - first:
+      213: 8133147026689335892
+    second: PixelTileSets_SideScroll_37
+  - first:
+      213: -2052922669242600981
+    second: PixelTileSets_SideScroll_38
+  - first:
+      213: 5290690510728481704
+    second: PixelTileSets_SideScroll_39
+  - first:
+      213: -7260339551545940123
+    second: PixelTileSets_SideScroll_40
+  - first:
+      213: 3301737019172320472
+    second: PixelTileSets_SideScroll_41
+  - first:
+      213: 5552699719781754351
+    second: PixelTileSets_SideScroll_42
+  - first:
+      213: -8689992492362059465
+    second: PixelTileSets_SideScroll_43
+  - first:
+      213: 3705526834759652466
+    second: PixelTileSets_SideScroll_44
+  - first:
+      213: -8383509302816664409
+    second: PixelTileSets_SideScroll_45
+  - first:
+      213: -7737074598252598581
+    second: PixelTileSets_SideScroll_46
+  - first:
+      213: 8128988639103710955
+    second: PixelTileSets_SideScroll_47
+  - first:
+      213: -7141032847060591986
+    second: PixelTileSets_SideScroll_48
+  - first:
+      213: -6701770215124197089
+    second: PixelTileSets_SideScroll_49
+  - first:
+      213: 5973332219292422817
+    second: PixelTileSets_SideScroll_50
+  - first:
+      213: 8201570453135339916
+    second: PixelTileSets_SideScroll_51
+  - first:
+      213: 4076306635500405939
+    second: PixelTileSets_SideScroll_52
+  - first:
+      213: -5421903934842083868
+    second: PixelTileSets_SideScroll_53
+  - first:
+      213: 4901890674669776401
+    second: PixelTileSets_SideScroll_54
+  - first:
+      213: -4374923561330691104
+    second: PixelTileSets_SideScroll_55
+  - first:
+      213: -4312704497596864007
+    second: PixelTileSets_SideScroll_56
+  - first:
+      213: -2983294184038789019
+    second: PixelTileSets_SideScroll_57
+  - first:
+      213: -5937189467508848531
+    second: PixelTileSets_SideScroll_58
+  - first:
+      213: -3888016750890608504
+    second: PixelTileSets_SideScroll_59
+  - first:
+      213: 6287823830250493154
+    second: PixelTileSets_SideScroll_60
+  - first:
+      213: 1497926978933574296
+    second: PixelTileSets_SideScroll_61
+  - first:
+      213: -2676232758930406486
+    second: PixelTileSets_SideScroll_62
+  - first:
+      213: -6689951667092185157
+    second: PixelTileSets_SideScroll_63
+  - first:
+      213: -8531253669045216571
+    second: PixelTileSets_SideScroll_64
+  - first:
+      213: -7179151455207840697
+    second: PixelTileSets_SideScroll_65
+  - first:
+      213: 8103150624261871461
+    second: PixelTileSets_SideScroll_66
+  - first:
+      213: 2778067232426526139
+    second: PixelTileSets_SideScroll_67
+  - first:
+      213: -4346350183702929047
+    second: PixelTileSets_SideScroll_68
+  - first:
+      213: 7740110246571952121
+    second: PixelTileSets_SideScroll_69
+  - first:
+      213: -3633935718524555006
+    second: PixelTileSets_SideScroll_70
+  - first:
+      213: -3640648522357296682
+    second: PixelTileSets_SideScroll_71
+  - first:
+      213: 3814937094269490237
+    second: PixelTileSets_SideScroll_72
+  - first:
+      213: 4979568473208082125
+    second: PixelTileSets_SideScroll_73
+  - first:
+      213: -5999622058820009666
+    second: PixelTileSets_SideScroll_74
+  - first:
+      213: 399790727680411892
+    second: PixelTileSets_SideScroll_75
+  - first:
+      213: -702516135429355410
+    second: PixelTileSets_SideScroll_76
+  - first:
+      213: 2987302520774128349
+    second: PixelTileSets_SideScroll_77
+  - first:
+      213: 204667108190167886
+    second: PixelTileSets_SideScroll_78
+  - first:
+      213: 4781260866558731645
+    second: PixelTileSets_SideScroll_79
+  - first:
+      213: 4199858440990345319
+    second: PixelTileSets_SideScroll_80
+  - first:
+      213: -8834854140226545189
+    second: PixelTileSets_SideScroll_81
+  - first:
+      213: -4091721881084813085
+    second: PixelTileSets_SideScroll_82
+  - first:
+      213: -6602313373651102641
+    second: PixelTileSets_SideScroll_83
+  - first:
+      213: -6968664905998233752
+    second: PixelTileSets_SideScroll_84
+  - first:
+      213: 8989056116595435146
+    second: PixelTileSets_SideScroll_85
+  - first:
+      213: -7938150369521895725
+    second: PixelTileSets_SideScroll_86
+  - first:
+      213: -7584674593699603947
+    second: PixelTileSets_SideScroll_87
+  - first:
+      213: -4547678219014385522
+    second: PixelTileSets_SideScroll_88
+  - first:
+      213: -5803692968385418214
+    second: PixelTileSets_SideScroll_89
+  - first:
+      213: 1119083827704001909
+    second: PixelTileSets_SideScroll_90
+  - first:
+      213: 3456674264068675978
+    second: PixelTileSets_SideScroll_91
+  - first:
+      213: 4696994599212750859
+    second: PixelTileSets_SideScroll_92
+  - first:
+      213: -8553535843507977073
+    second: PixelTileSets_SideScroll_93
+  - first:
+      213: -7421400714854698872
+    second: PixelTileSets_SideScroll_94
+  - first:
+      213: 8705376405616424548
+    second: PixelTileSets_SideScroll_95
+  - first:
+      213: -3930391966118533532
+    second: PixelTileSets_SideScroll_96
+  - first:
+      213: -5066914712758291779
+    second: PixelTileSets_SideScroll_97
+  - first:
+      213: -2565606589296881567
+    second: PixelTileSets_SideScroll_98
+  - first:
+      213: -9010410251199118266
+    second: PixelTileSets_SideScroll_99
+  - first:
+      213: 3232981412764943393
+    second: PixelTileSets_SideScroll_100
+  - first:
+      213: -3052091641226106055
+    second: PixelTileSets_SideScroll_101
+  - first:
+      213: -6475299043159736059
+    second: PixelTileSets_SideScroll_102
+  - first:
+      213: -2823024337371520743
+    second: PixelTileSets_SideScroll_103
+  - first:
+      213: -1316298354878945091
+    second: PixelTileSets_SideScroll_104
+  - first:
+      213: -8097578216022700360
+    second: PixelTileSets_SideScroll_105
+  - first:
+      213: 1694973218114397885
+    second: PixelTileSets_SideScroll_106
+  - first:
+      213: 1749854270675330452
+    second: PixelTileSets_SideScroll_107
+  - first:
+      213: 2998433101417724887
+    second: PixelTileSets_SideScroll_108
+  - first:
+      213: 5591353602462509929
+    second: PixelTileSets_SideScroll_109
+  - first:
+      213: 6238522654915345942
+    second: PixelTileSets_SideScroll_110
+  - first:
+      213: -8941820949042880976
+    second: PixelTileSets_SideScroll_111
+  - first:
+      213: -4687884388569572478
+    second: PixelTileSets_SideScroll_112
+  - first:
+      213: -2729830858609601765
+    second: PixelTileSets_SideScroll_113
+  - first:
+      213: 9054613801288304581
+    second: PixelTileSets_SideScroll_114
+  - first:
+      213: 3898297749027194963
+    second: PixelTileSets_SideScroll_115
+  - first:
+      213: 1325718740230582121
+    second: PixelTileSets_SideScroll_116
+  - first:
+      213: -5010320041192897570
+    second: PixelTileSets_SideScroll_117
+  - first:
+      213: 2239529708530317237
+    second: PixelTileSets_SideScroll_118
+  - first:
+      213: -1647728016941000683
+    second: PixelTileSets_SideScroll_119
+  - first:
+      213: -2026467750796387447
+    second: PixelTileSets_SideScroll_120
+  - first:
+      213: 6299854083707760501
+    second: PixelTileSets_SideScroll_121
+  - first:
+      213: -5514890689867255262
+    second: PixelTileSets_SideScroll_122
+  - first:
+      213: 5675845556087583696
+    second: PixelTileSets_SideScroll_123
+  - first:
+      213: -8704021184611581690
+    second: PixelTileSets_SideScroll_124
+  - first:
+      213: -3961281957517903150
+    second: PixelTileSets_SideScroll_125
+  - first:
+      213: 439431386616188558
+    second: PixelTileSets_SideScroll_126
+  - first:
+      213: 6120313208547311983
+    second: PixelTileSets_SideScroll_127
+  - first:
+      213: -5296556869264942834
+    second: PixelTileSets_SideScroll_128
+  - first:
+      213: -6556091213373045719
+    second: PixelTileSets_SideScroll_129
+  - first:
+      213: -3215491493640414145
+    second: PixelTileSets_SideScroll_130
+  - first:
+      213: -6439079065571746268
+    second: PixelTileSets_SideScroll_131
+  - first:
+      213: -8017851354814485823
+    second: PixelTileSets_SideScroll_132
+  - first:
+      213: -1270409236509238139
+    second: PixelTileSets_SideScroll_133
+  - first:
+      213: 995144284863289387
+    second: PixelTileSets_SideScroll_134
+  - first:
+      213: -7709550079688460697
+    second: PixelTileSets_SideScroll_135
+  - first:
+      213: 2659938378238312637
+    second: PixelTileSets_SideScroll_136
+  - first:
+      213: 126727631859200798
+    second: PixelTileSets_SideScroll_137
+  - first:
+      213: 4159616868813102192
+    second: PixelTileSets_SideScroll_138
+  - first:
+      213: 2558624933495435384
+    second: PixelTileSets_SideScroll_139
+  - first:
+      213: 3204700948088603724
+    second: PixelTileSets_SideScroll_140
+  - first:
+      213: 3416938337729207153
+    second: PixelTileSets_SideScroll_141
+  - first:
+      213: 7435148527471710846
+    second: PixelTileSets_SideScroll_142
+  - first:
+      213: 4279115237093660868
+    second: PixelTileSets_SideScroll_143
+  - first:
+      213: -3257186826317866033
+    second: PixelTileSets_SideScroll_144
+  - first:
+      213: 7127356978523812961
+    second: PixelTileSets_SideScroll_145
+  - first:
+      213: 3565148853969430551
+    second: PixelTileSets_SideScroll_146
+  - first:
+      213: 7343701586069852915
+    second: PixelTileSets_SideScroll_147
+  - first:
+      213: -1903274039106721244
+    second: PixelTileSets_SideScroll_148
+  - first:
+      213: -4400580750023873226
+    second: PixelTileSets_SideScroll_149
+  - first:
+      213: -8925362340823291736
+    second: PixelTileSets_SideScroll_150
+  - first:
+      213: 7736057826326224248
+    second: PixelTileSets_SideScroll_151
+  - first:
+      213: -8871382747632146970
+    second: PixelTileSets_SideScroll_152
+  - first:
+      213: 4471491993634072950
+    second: PixelTileSets_SideScroll_153
+  - first:
+      213: -3336894384586680682
+    second: PixelTileSets_SideScroll_154
+  - first:
+      213: 3974189887673555940
+    second: PixelTileSets_SideScroll_155
+  - first:
+      213: -3242416471127103180
+    second: PixelTileSets_SideScroll_156
+  - first:
+      213: 5797670874098224956
+    second: PixelTileSets_SideScroll_157
+  - first:
+      213: 7861590198355501090
+    second: PixelTileSets_SideScroll_158
+  - first:
+      213: -1811365052445526473
+    second: PixelTileSets_SideScroll_159
+  - first:
+      213: -6929112678821210767
+    second: PixelTileSets_SideScroll_160
+  - first:
+      213: -8652730380358525831
+    second: PixelTileSets_SideScroll_161
+  - first:
+      213: 2630257548580762707
+    second: PixelTileSets_SideScroll_162
+  - first:
+      213: -5152494165294972830
+    second: PixelTileSets_SideScroll_163
+  - first:
+      213: -3747514874916653298
+    second: PixelTileSets_SideScroll_164
+  - first:
+      213: -1619921869771642229
+    second: PixelTileSets_SideScroll_165
+  - first:
+      213: -8882941513766733620
+    second: PixelTileSets_SideScroll_166
+  - first:
+      213: 8621767046570598679
+    second: PixelTileSets_SideScroll_167
+  - first:
+      213: -2860363161971065802
+    second: PixelTileSets_SideScroll_168
+  - first:
+      213: -54187361859165066
+    second: PixelTileSets_SideScroll_169
+  - first:
+      213: -2322099540007812222
+    second: PixelTileSets_SideScroll_170
+  - first:
+      213: -4573977485970577029
+    second: PixelTileSets_SideScroll_171
+  - first:
+      213: -2954389870535402921
+    second: PixelTileSets_SideScroll_172
+  - first:
+      213: -1501012765709195388
+    second: PixelTileSets_SideScroll_173
+  - first:
+      213: -3756958389623516963
+    second: PixelTileSets_SideScroll_174
+  - first:
+      213: 5488150073300982591
+    second: PixelTileSets_SideScroll_175
+  - first:
+      213: -2465157448759843542
+    second: PixelTileSets_SideScroll_176
+  - first:
+      213: -1086561014067635968
+    second: PixelTileSets_SideScroll_177
+  - first:
+      213: -3519622471882047557
+    second: PixelTileSets_SideScroll_178
+  - first:
+      213: 5387299676904952188
+    second: PixelTileSets_SideScroll_179
+  - first:
+      213: -4106011592112024776
+    second: PixelTileSets_SideScroll_180
+  - first:
+      213: -850627351477811854
+    second: PixelTileSets_SideScroll_181
+  - first:
+      213: 5804414318883800448
+    second: PixelTileSets_SideScroll_182
+  - first:
+      213: -1445095854852150212
+    second: PixelTileSets_SideScroll_183
+  - first:
+      213: -140000404938175120
+    second: PixelTileSets_SideScroll_184
+  - first:
+      213: -1257038920316327188
+    second: PixelTileSets_SideScroll_185
+  - first:
+      213: 4764389785791039228
+    second: PixelTileSets_SideScroll_186
+  - first:
+      213: 3228026130332223790
+    second: PixelTileSets_SideScroll_187
+  - first:
+      213: -5010038267298955834
+    second: PixelTileSets_SideScroll_188
+  - first:
+      213: 5727930209956822356
+    second: PixelTileSets_SideScroll_189
+  - first:
+      213: -7645989695193287933
+    second: PixelTileSets_SideScroll_190
+  - first:
+      213: 1708807812339607237
+    second: PixelTileSets_SideScroll_191
+  - first:
+      213: 7376108412918635277
+    second: PixelTileSets_SideScroll_192
+  - first:
+      213: 6552877289530343131
+    second: PixelTileSets_SideScroll_193
+  - first:
+      213: 5095575607040594751
+    second: PixelTileSets_SideScroll_194
+  - first:
+      213: -5086007369123587787
+    second: PixelTileSets_SideScroll_195
+  - first:
+      213: 6881759191733589987
+    second: PixelTileSets_SideScroll_196
+  - first:
+      213: 6815474130038448461
+    second: PixelTileSets_SideScroll_197
+  - first:
+      213: -295936159827850466
+    second: PixelTileSets_SideScroll_198
+  - first:
+      213: -8847101331102754873
+    second: PixelTileSets_SideScroll_199
+  - first:
+      213: 8273469917750594536
+    second: PixelTileSets_SideScroll_200
+  - first:
+      213: 4621433748802324833
+    second: PixelTileSets_SideScroll_201
+  - first:
+      213: -5961311811087440940
+    second: PixelTileSets_SideScroll_202
+  - first:
+      213: -2233575597175690291
+    second: PixelTileSets_SideScroll_203
+  - first:
+      213: -3573673092415915999
+    second: PixelTileSets_SideScroll_204
+  - first:
+      213: 7097677805766772253
+    second: PixelTileSets_SideScroll_205
+  - first:
+      213: -3559549190511172985
+    second: PixelTileSets_SideScroll_206
+  - first:
+      213: -3643662609879273781
+    second: PixelTileSets_SideScroll_207
+  - first:
+      213: 3663784394263438144
+    second: PixelTileSets_SideScroll_208
+  - first:
+      213: 6115386695719220299
+    second: PixelTileSets_SideScroll_209
+  - first:
+      213: -2459306783966787514
+    second: PixelTileSets_SideScroll_210
+  - first:
+      213: -5323122575167738763
+    second: PixelTileSets_SideScroll_211
+  - first:
+      213: 6451192017220348963
+    second: PixelTileSets_SideScroll_212
+  - first:
+      213: -1914531465374923947
+    second: PixelTileSets_SideScroll_213
+  - first:
+      213: -4027157469680355552
+    second: PixelTileSets_SideScroll_214
+  - first:
+      213: -747575455289332950
+    second: PixelTileSets_SideScroll_215
+  - first:
+      213: 8912579397345627591
+    second: PixelTileSets_SideScroll_216
+  - first:
+      213: 934267253995359132
+    second: PixelTileSets_SideScroll_217
+  - first:
+      213: 5165322188949095756
+    second: PixelTileSets_SideScroll_218
+  - first:
+      213: 5206801724718070045
+    second: PixelTileSets_SideScroll_219
+  - first:
+      213: 2662284580517624747
+    second: PixelTileSets_SideScroll_220
+  - first:
+      213: -4665313939960377054
+    second: PixelTileSets_SideScroll_221
+  - first:
+      213: -5520141214239684080
+    second: PixelTileSets_SideScroll_222
+  - first:
+      213: 4152849327619526986
+    second: PixelTileSets_SideScroll_223
+  - first:
+      213: 6208942077515386388
+    second: PixelTileSets_SideScroll_14
+  - first:
+      213: 668180574152638571
+    second: PixelTileSets_SideScroll_15
+  - first:
+      213: -4256512615648127842
+    second: PixelTileSets_SideScroll_16
+  - first:
+      213: 974059311662162632
+    second: PixelTileSets_SideScroll_17
+  - first:
+      213: 5558423890233853724
+    second: PixelTileSets_SideScroll_18
+  - first:
+      213: -5351072319180488961
+    second: PixelTileSets_SideScroll_19
+  - first:
+      213: -6657719390920371646
+    second: PixelTileSets_SideScroll_20
+  - first:
+      213: -540111995227609144
+    second: PixelTileSets_SideScroll_21
+  - first:
+      213: 7357730794143723054
+    second: PixelTileSets_SideScroll_22
+  - first:
+      213: 4923816049909367726
+    second: PixelTileSets_SideScroll_23
+  - first:
+      213: -3663382800548383384
+    second: PixelTileSets_SideScroll_24
+  - first:
+      213: 9086482594167006578
+    second: PixelTileSets_SideScroll_25
+  - first:
+      213: -4335202017079890790
+    second: PixelTileSets_SideScroll_26
+  - first:
+      213: -1983446838143219859
+    second: PixelTileSets_SideScroll_27
+  - first:
+      213: 3006299071141825495
+    second: PixelTileSets_SideScroll_28
+  - first:
+      213: -4141972451580966389
+    second: PixelTileSets_SideScroll_29
+  - first:
+      213: 5504932977449715353
+    second: PixelTileSets_SideScroll_30
+  - first:
+      213: 2589538198231351483
+    second: PixelTileSets_SideScroll_31
+  - first:
+      213: -6408200888334650433
+    second: PixelTileSets_SideScroll_32
+  - first:
+      213: -8778986343518213825
+    second: PixelTileSets_SideScroll_33
+  - first:
+      213: -560177799631438414
+    second: PixelTileSets_SideScroll_34
+  - first:
+      213: -762036621163637875
+    second: PixelTileSets_SideScroll_35
+  - first:
+      213: 8864282537195633789
+    second: PixelTileSets_SideScroll_36
+  - first:
+      213: -8193463974712128586
+    second: PixelTileSets_SideScroll_37
+  - first:
+      213: -7910358790698013751
+    second: PixelTileSets_SideScroll_38
+  - first:
+      213: -7163522034161202949
+    second: PixelTileSets_SideScroll_39
+  - first:
+      213: -4249615907633822884
+    second: PixelTileSets_SideScroll_40
+  - first:
+      213: -6724539470246583297
+    second: PixelTileSets_SideScroll_41
+  - first:
+      213: -5467094851462012178
+    second: PixelTileSets_SideScroll_42
+  - first:
+      213: -6958409783506343053
+    second: PixelTileSets_SideScroll_43
+  - first:
+      213: -197725625587328656
+    second: PixelTileSets_SideScroll_44
+  - first:
+      213: 900285551124436649
+    second: PixelTileSets_SideScroll_45
+  - first:
+      213: -6830002789918337707
+    second: PixelTileSets_SideScroll_46
+  - first:
+      213: 7999634922868938431
+    second: PixelTileSets_SideScroll_47
+  - first:
+      213: -550396309741876543
+    second: PixelTileSets_SideScroll_48
+  - first:
+      213: -9038797564500314547
+    second: PixelTileSets_SideScroll_49
+  - first:
+      213: -7417620208856758775
+    second: PixelTileSets_SideScroll_50
+  - first:
+      213: -4104824357978615923
+    second: PixelTileSets_SideScroll_51
+  - first:
+      213: 1052659308021566748
+    second: PixelTileSets_SideScroll_52
+  - first:
+      213: 6541800724868571150
+    second: PixelTileSets_SideScroll_53
+  - first:
+      213: 529701372587524910
+    second: PixelTileSets_SideScroll_54
+  - first:
+      213: -4764014073817961438
+    second: PixelTileSets_SideScroll_55
+  - first:
+      213: 468537098957770800
+    second: PixelTileSets_SideScroll_56
+  - first:
+      213: -4516162955940370575
+    second: PixelTileSets_SideScroll_57
+  - first:
+      213: 4794562187068177126
+    second: PixelTileSets_SideScroll_58
+  - first:
+      213: 1069780853743672506
+    second: PixelTileSets_SideScroll_59
+  - first:
+      213: 805750912623573110
+    second: PixelTileSets_SideScroll_60
+  - first:
+      213: -8770762009474642793
+    second: PixelTileSets_SideScroll_61
+  - first:
+      213: -7456832513517550049
+    second: PixelTileSets_SideScroll_62
+  - first:
+      213: 74783135478860832
+    second: PixelTileSets_SideScroll_63
+  - first:
+      213: -7179169371053830261
+    second: PixelTileSets_SideScroll_64
+  - first:
+      213: -5449129990562907818
+    second: PixelTileSets_SideScroll_65
+  - first:
+      213: -6557981838898279049
+    second: PixelTileSets_SideScroll_66
+  - first:
+      213: -7798591558035098361
+    second: PixelTileSets_SideScroll_67
+  - first:
+      213: 8643998802683168929
+    second: PixelTileSets_SideScroll_68
+  - first:
+      213: -586298388541672597
+    second: PixelTileSets_SideScroll_69
+  - first:
+      213: -9028351233258515078
+    second: PixelTileSets_SideScroll_70
+  - first:
+      213: -7051522895340857151
+    second: PixelTileSets_SideScroll_71
+  - first:
+      213: 8770530800386106544
+    second: PixelTileSets_SideScroll_72
+  - first:
+      213: 8901073566480643613
+    second: PixelTileSets_SideScroll_73
+  - first:
+      213: 2860595898540903873
+    second: PixelTileSets_SideScroll_74
+  - first:
+      213: 3377512260009017369
+    second: PixelTileSets_SideScroll_75
+  - first:
+      213: 4300155313043796755
+    second: PixelTileSets_SideScroll_76
+  - first:
+      213: 6403203486837659486
+    second: PixelTileSets_SideScroll_77
+  - first:
+      213: 3303130479896131387
+    second: PixelTileSets_SideScroll_78
+  - first:
+      213: -2448680080429453986
+    second: PixelTileSets_SideScroll_79
+  - first:
+      213: 198205228073883187
+    second: PixelTileSets_SideScroll_80
+  - first:
+      213: 2114738128445632653
+    second: PixelTileSets_SideScroll_81
+  - first:
+      213: -9154982527930464974
+    second: PixelTileSets_SideScroll_82
+  - first:
+      213: -8370783872881113329
+    second: PixelTileSets_SideScroll_83
+  - first:
+      213: -7646279828739918883
+    second: PixelTileSets_SideScroll_84
+  - first:
+      213: -8918497227850281149
+    second: PixelTileSets_SideScroll_85
+  - first:
+      213: -1988098063426216706
+    second: PixelTileSets_SideScroll_86
+  - first:
+      213: 8629095129856329832
+    second: PixelTileSets_SideScroll_87
+  - first:
+      213: 5703064379806664570
+    second: PixelTileSets_SideScroll_88
+  - first:
+      213: 119960702423988631
+    second: PixelTileSets_SideScroll_89
+  - first:
+      213: 2052162503427848122
+    second: PixelTileSets_SideScroll_90
+  - first:
+      213: 1681158195592871999
+    second: PixelTileSets_SideScroll_91
+  - first:
+      213: 481828092852012416
+    second: PixelTileSets_SideScroll_92
+  - first:
+      213: -3925978944271871939
+    second: PixelTileSets_SideScroll_93
+  - first:
+      213: -8213612196058369792
+    second: PixelTileSets_SideScroll_94
+  - first:
+      213: 9218660022064272288
+    second: PixelTileSets_SideScroll_95
+  - first:
+      213: 7705639770857297545
+    second: PixelTileSets_SideScroll_96
+  - first:
+      213: -1279220386482494869
+    second: PixelTileSets_SideScroll_97
+  - first:
+      213: -284319023402818039
+    second: PixelTileSets_SideScroll_98
+  - first:
+      213: -501435894500083710
+    second: PixelTileSets_SideScroll_99
+  - first:
+      213: -3009234347852088275
+    second: PixelTileSets_SideScroll_100
+  - first:
+      213: 4824882632420647078
+    second: PixelTileSets_SideScroll_101
+  - first:
+      213: -4593318718276726488
+    second: PixelTileSets_SideScroll_102
+  - first:
+      213: -5369024895777303078
+    second: PixelTileSets_SideScroll_103
+  - first:
+      213: 7939826489535313829
+    second: PixelTileSets_SideScroll_104
+  - first:
+      213: 5564743079137906859
+    second: PixelTileSets_SideScroll_105
+  - first:
+      213: -9113349225515588774
+    second: PixelTileSets_SideScroll_106
+  - first:
+      213: 658762258496329672
+    second: PixelTileSets_SideScroll_107
+  - first:
+      213: -7302135677668852833
+    second: PixelTileSets_SideScroll_108
+  - first:
+      213: -2199359809131041604
+    second: PixelTileSets_SideScroll_109
+  - first:
+      213: -4148343169457654219
+    second: PixelTileSets_SideScroll_110
+  - first:
+      213: -5828870055747672256
+    second: PixelTileSets_SideScroll_111
+  - first:
+      213: 3679401248871383226
+    second: PixelTileSets_SideScroll_112
+  - first:
+      213: 4400611890092364129
+    second: PixelTileSets_SideScroll_113
+  - first:
+      213: -8844245138204153150
+    second: PixelTileSets_SideScroll_114
+  - first:
+      213: 756118328060246167
+    second: PixelTileSets_SideScroll_115
+  - first:
+      213: 8961208103334096334
+    second: PixelTileSets_SideScroll_116
+  - first:
+      213: 4482422471698844449
+    second: PixelTileSets_SideScroll_117
+  - first:
+      213: -5922063686638179686
+    second: PixelTileSets_SideScroll_118
+  - first:
+      213: 5866231147661180573
+    second: PixelTileSets_SideScroll_119
+  - first:
+      213: -1175134804110254215
+    second: PixelTileSets_SideScroll_120
+  - first:
+      213: 5711918516079307528
+    second: PixelTileSets_SideScroll_121
+  - first:
+      213: 899398916837834008
+    second: PixelTileSets_SideScroll_122
+  - first:
+      213: -4737821234180629678
+    second: PixelTileSets_SideScroll_123
+  - first:
+      213: 8704174694441138382
+    second: PixelTileSets_SideScroll_124
+  - first:
+      213: -422497161410551389
+    second: PixelTileSets_SideScroll_125
+  - first:
+      213: 3382042093786122056
+    second: PixelTileSets_SideScroll_126
+  - first:
+      213: -530305870323843717
+    second: PixelTileSets_SideScroll_127
+  - first:
+      213: 3426436187108276516
+    second: PixelTileSets_SideScroll_128
+  - first:
+      213: 4154430810544182290
+    second: PixelTileSets_SideScroll_129
+  - first:
+      213: -5801892289948541626
+    second: PixelTileSets_SideScroll_130
+  - first:
+      213: -281692726742718937
+    second: PixelTileSets_SideScroll_131
+  - first:
+      213: -1109611040722658500
+    second: PixelTileSets_SideScroll_132
+  - first:
+      213: -7746649321236680162
+    second: PixelTileSets_SideScroll_133
+  - first:
+      213: 4105259077836014056
+    second: PixelTileSets_SideScroll_134
+  - first:
+      213: -858621138766853576
+    second: PixelTileSets_SideScroll_135
+  - first:
+      213: -6654551339254928002
+    second: PixelTileSets_SideScroll_136
+  - first:
+      213: -27988293132433315
+    second: PixelTileSets_SideScroll_137
+  - first:
+      213: 4153605849663954491
+    second: PixelTileSets_SideScroll_138
+  - first:
+      213: 6945059503292049675
+    second: PixelTileSets_SideScroll_139
+  - first:
+      213: -585201660640650179
+    second: PixelTileSets_SideScroll_140
+  - first:
+      213: -7515332878805749627
+    second: PixelTileSets_SideScroll_141
+  - first:
+      213: 2811331850035007696
+    second: PixelTileSets_SideScroll_142
+  - first:
+      213: -5827453243253802174
+    second: PixelTileSets_SideScroll_143
+  - first:
+      213: 363209091637361193
+    second: PixelTileSets_SideScroll_144
+  - first:
+      213: 3887973812777845365
+    second: PixelTileSets_SideScroll_145
+  - first:
+      213: 340666340663425620
+    second: PixelTileSets_SideScroll_146
+  - first:
+      213: 4745756851942230050
+    second: PixelTileSets_SideScroll_147
+  - first:
+      213: -434521318019001017
+    second: PixelTileSets_SideScroll_148
+  - first:
+      213: 7169862104672276577
+    second: PixelTileSets_SideScroll_149
+  - first:
+      213: 585798990342125274
+    second: PixelTileSets_SideScroll_150
+  - first:
+      213: 1320992364011102223
+    second: PixelTileSets_SideScroll_151
+  - first:
+      213: 4363112253665142669
+    second: PixelTileSets_SideScroll_152
+  - first:
+      213: 1604309752362807839
+    second: PixelTileSets_SideScroll_153
+  - first:
+      213: 8424738324298987575
+    second: PixelTileSets_SideScroll_154
+  - first:
+      213: 5631623382653043024
+    second: PixelTileSets_SideScroll_155
+  - first:
+      213: -1497585877762458764
+    second: PixelTileSets_SideScroll_156
+  - first:
+      213: 7987302883662749985
+    second: PixelTileSets_SideScroll_157
+  - first:
+      213: 5475016986922300169
+    second: PixelTileSets_SideScroll_158
+  - first:
+      213: 6156745085494850325
+    second: PixelTileSets_SideScroll_159
+  - first:
+      213: -8154987186123067714
+    second: PixelTileSets_SideScroll_160
+  - first:
+      213: 856718141181821330
+    second: PixelTileSets_SideScroll_161
+  - first:
+      213: 9121533954037158221
+    second: PixelTileSets_SideScroll_162
+  - first:
+      213: 7151328778607395774
+    second: PixelTileSets_SideScroll_163
+  - first:
+      213: -7557936614865477985
+    second: PixelTileSets_SideScroll_164
+  - first:
+      213: 2717656550233171390
+    second: PixelTileSets_SideScroll_165
+  - first:
+      213: -7758844194926370628
+    second: PixelTileSets_SideScroll_166
+  - first:
+      213: 4037347355645728463
+    second: PixelTileSets_SideScroll_167
+  - first:
+      213: 1339194998803435113
+    second: PixelTileSets_SideScroll_168
+  - first:
+      213: -3754012971351118794
+    second: PixelTileSets_SideScroll_169
+  - first:
+      213: 2197991892594375481
+    second: PixelTileSets_SideScroll_170
+  - first:
+      213: -3127233367371407935
+    second: PixelTileSets_SideScroll_171
+  - first:
+      213: -1358802034190830000
+    second: PixelTileSets_SideScroll_172
+  - first:
+      213: -1850646247240729637
+    second: PixelTileSets_SideScroll_173
+  - first:
+      213: 4776790310363238708
+    second: PixelTileSets_SideScroll_174
+  - first:
+      213: -4257398460968242915
+    second: PixelTileSets_SideScroll_175
+  - first:
+      213: 8595239377492016266
+    second: PixelTileSets_SideScroll_176
+  - first:
+      213: 3699071680295707258
+    second: PixelTileSets_SideScroll_177
+  - first:
+      213: -3813100496839668236
+    second: PixelTileSets_SideScroll_178
+  - first:
+      213: -5342378351026422574
+    second: PixelTileSets_SideScroll_179
+  - first:
+      213: 5614644790438585343
+    second: PixelTileSets_SideScroll_180
+  - first:
+      213: -5681985368019967042
+    second: PixelTileSets_SideScroll_181
+  - first:
+      213: -2257157163229483653
+    second: PixelTileSets_SideScroll_182
+  - first:
+      213: 5334726922573267607
+    second: PixelTileSets_SideScroll_183
+  - first:
+      213: -2802619656712027814
+    second: PixelTileSets_SideScroll_184
+  - first:
+      213: 5431076438294642929
+    second: PixelTileSets_SideScroll_185
+  - first:
+      213: 6429784879925984407
+    second: PixelTileSets_SideScroll_186
+  - first:
+      213: -8929613463617911252
+    second: PixelTileSets_SideScroll_187
+  - first:
+      213: -4558095757993715759
+    second: PixelTileSets_SideScroll_188
+  - first:
+      213: 5436498146504741299
+    second: PixelTileSets_SideScroll_189
+  - first:
+      213: 332746486614569201
+    second: PixelTileSets_SideScroll_190
+  - first:
+      213: 3276931025129494943
+    second: PixelTileSets_SideScroll_191
+  - first:
+      213: -2913596266703967574
+    second: PixelTileSets_SideScroll_192
+  - first:
+      213: -4393631528184161582
+    second: PixelTileSets_SideScroll_193
+  - first:
+      213: -6744673431624086437
+    second: PixelTileSets_SideScroll_194
+  - first:
+      213: 89046192220284002
+    second: PixelTileSets_SideScroll_195
+  - first:
+      213: 137766488955851151
+    second: PixelTileSets_SideScroll_196
+  - first:
+      213: -7134724426039438211
+    second: PixelTileSets_SideScroll_197
+  - first:
+      213: -4289559160010091179
+    second: PixelTileSets_SideScroll_198
+  - first:
+      213: 260562202486230490
+    second: PixelTileSets_SideScroll_199
+  - first:
+      213: -6543508054203354419
+    second: PixelTileSets_SideScroll_200
+  - first:
+      213: -5821889094355916717
+    second: PixelTileSets_SideScroll_201
+  - first:
+      213: 4621036471645865866
+    second: PixelTileSets_SideScroll_202
+  - first:
+      213: 5037766661868527688
+    second: PixelTileSets_SideScroll_203
+  - first:
+      213: 5034604722422399572
+    second: PixelTileSets_SideScroll_204
+  - first:
+      213: -2331259876914152543
+    second: PixelTileSets_SideScroll_205
+  - first:
+      213: -4594576611647205071
+    second: PixelTileSets_SideScroll_206
+  - first:
+      213: 7582027998239243917
+    second: PixelTileSets_SideScroll_207
+  - first:
+      213: 5766138931858807443
+    second: PixelTileSets_SideScroll_208
+  - first:
+      213: 8411317674133587064
+    second: PixelTileSets_SideScroll_209
+  - first:
+      213: 8950932654492679042
+    second: PixelTileSets_SideScroll_210
+  - first:
+      213: 1638367513858101989
+    second: PixelTileSets_SideScroll_211
+  - first:
+      213: 4041873268675378405
+    second: PixelTileSets_SideScroll_212
+  - first:
+      213: -7684633927010560710
+    second: PixelTileSets_SideScroll_213
+  - first:
+      213: 4648103286541875064
+    second: PixelTileSets_SideScroll_214
+  - first:
+      213: 616081084015158271
+    second: PixelTileSets_SideScroll_215
+  - first:
+      213: 112603877375156622
+    second: PixelTileSets_SideScroll_216
+  - first:
+      213: 6158950040139032902
+    second: PixelTileSets_SideScroll_217
+  - first:
+      213: -3920551512934747041
+    second: PixelTileSets_SideScroll_218
+  - first:
+      213: -5262008273080591191
+    second: PixelTileSets_SideScroll_219
+  - first:
+      213: -3117839234594936314
+    second: PixelTileSets_SideScroll_220
+  - first:
+      213: -7381095276678057103
+    second: PixelTileSets_SideScroll_221
+  - first:
+      213: -4811683141546794837
+    second: PixelTileSets_SideScroll_222
+  - first:
+      213: 2976544773553670370
+    second: PixelTileSets_SideScroll_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25fa61770f1a9ee0800000000000000
+      internalID: -1253655429441194708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a0a229f962d960800000000000000
+      internalID: 7625273637840397555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e24ee9c78075c0800000000000000
+      internalID: -4219723549490616703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f3f52c7a4c8100800000000000000
+      internalID: 111545987850563872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29b14f1ec21b5f0800000000000000
+      internalID: -742763114564709635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519dbb6808b88180800000000000000
+      internalID: -9112831499677363878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952bf06c1f999080800000000000000
+      internalID: -9180131421183072868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e43719f1f486be0800000000000000
+      internalID: -1483849080215744900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52fdf006011256c0800000000000000
+      internalID: -4156240788625427876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d6daa3611b1600800000000000000
+      internalID: 439964508364395746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a21d232b80d8b0800000000000000
+      internalID: -5129446992378682318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4fb3eef01bf1b0800000000000000
+      internalID: -5621881022913229882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf53e4fa666ba40800000000000000
+      internalID: 5383603307685477360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c434fcc92db4ce760800000000000000
+      internalID: 7488443648356336460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec7415ce79a2650800000000000000
+      internalID: 6208942077515386388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604f2821bad54900800000000000000
+      internalID: 668180574152638571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94135af354dde4c0800000000000000
+      internalID: -4256512615648127842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e8cd78cd848d00800000000000000
+      internalID: 974059311662162632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c170f60141d732d40800000000000000
+      internalID: 5558423890233853724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe32dfa31c2db5b0800000000000000
+      internalID: -5351072319180488961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24216f1fc770b93a0800000000000000
+      internalID: -6657719390920371646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e78180032188f0800000000000000
+      internalID: -540111995227609144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea3e1ac29eb1660800000000000000
+      internalID: 7357730794143723054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea307322c98e45440800000000000000
+      internalID: 4923816049909367726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b90990cc092dc0800000000000000
+      internalID: -3663382800548383384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752813f6cba91e70800000000000000
+      internalID: 9086482594167006578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c656efbb446d3c0800000000000000
+      internalID: -4335202017079890790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670a950c916974e0800000000000000
+      internalID: -1983446838143219859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbceffb31588b920800000000000000
+      internalID: 3006299071141825495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a001a1002c486c0800000000000000
+      internalID: -4141972451580966389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99649396063756c40800000000000000
+      internalID: 5504932977449715353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb082e57543efe320800000000000000
+      internalID: 2589538198231351483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb378718e3f7117a0800000000000000
+      internalID: -6408200888334650433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3967920f66ca2680800000000000000
+      internalID: -8778986343518213825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd78e95249d938f0800000000000000
+      internalID: -560177799631438414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d3b10bb3bc65f0800000000000000
+      internalID: -762036621163637875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7e3aa002440b70800000000000000
+      internalID: 8864282537195633789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc2530de7fa4e80800000000000000
+      internalID: -8193463974712128586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6e8a3792c83290800000000000000
+      internalID: -7910358790698013751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84325f9ae069c90800000000000000
+      internalID: -7163522034161202949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5303a1f8d45605c0800000000000000
+      internalID: -4249615907633822884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ebdddaf2ada2a0800000000000000
+      internalID: -6724539470246583297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26d31d23af024b0800000000000000
+      internalID: -5467094851462012178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b608c4b23ce6f90800000000000000
+      internalID: -6958409783506343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07910e35799814df0800000000000000
+      internalID: -197725625587328656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6503750f47e7c00800000000000000
+      internalID: 900285551124436649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559df346a4f631a0800000000000000
+      internalID: -6830002789918337707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb699661499640f60800000000000000
+      internalID: 7999634922868938431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4620f8799c58f0800000000000000
+      internalID: -550396309741876543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46fa43318dbf8280800000000000000
+      internalID: -9038797564500314547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906855468b15f0990800000000000000
+      internalID: -7417620208856758775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f4055aefbb807c0800000000000000
+      internalID: -4104824357978615923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d422c301ccb9e00800000000000000
+      internalID: 1052659308021566748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e002f2d691529ca50800000000000000
+      internalID: 6541800724868571150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23cd168790e95700800000000000000
+      internalID: 529701372587524910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_SideScroll_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6e11d072d2edb0800000000000000
+      internalID: -4764014073817961438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

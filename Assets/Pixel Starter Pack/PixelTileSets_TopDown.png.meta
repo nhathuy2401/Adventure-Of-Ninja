@@ -1,0 +1,3751 @@
+fileFormatVersion: 2
+guid: cfd7dca1b86b832429719beb48da9d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2777466398644674356
+    second: PixelTileSets_TopDown_0
+  - first:
+      213: 3782158481683104949
+    second: PixelTileSets_TopDown_1
+  - first:
+      213: 7975464794579066952
+    second: PixelTileSets_TopDown_2
+  - first:
+      213: -3065473193958003962
+    second: PixelTileSets_TopDown_3
+  - first:
+      213: -7657770554918712848
+    second: PixelTileSets_TopDown_4
+  - first:
+      213: -8070551813580318133
+    second: PixelTileSets_TopDown_5
+  - first:
+      213: 6163339663061697213
+    second: PixelTileSets_TopDown_6
+  - first:
+      213: 3723972105327882042
+    second: PixelTileSets_TopDown_7
+  - first:
+      213: -8819130762006596187
+    second: PixelTileSets_TopDown_8
+  - first:
+      213: 5964940768595446746
+    second: PixelTileSets_TopDown_9
+  - first:
+      213: -6903177930656357858
+    second: PixelTileSets_TopDown_10
+  - first:
+      213: -5951300034338273189
+    second: PixelTileSets_TopDown_11
+  - first:
+      213: 8340523767315414326
+    second: PixelTileSets_TopDown_12
+  - first:
+      213: 7963079064724796017
+    second: PixelTileSets_TopDown_13
+  - first:
+      213: 103582928837367113
+    second: PixelTileSets_TopDown_14
+  - first:
+      213: -8075359871877840648
+    second: PixelTileSets_TopDown_15
+  - first:
+      213: 5799043627980153514
+    second: PixelTileSets_TopDown_16
+  - first:
+      213: -3832059880214379370
+    second: PixelTileSets_TopDown_17
+  - first:
+      213: -4307109778276118771
+    second: PixelTileSets_TopDown_18
+  - first:
+      213: 5346050140177305893
+    second: PixelTileSets_TopDown_19
+  - first:
+      213: -3426405569786805998
+    second: PixelTileSets_TopDown_20
+  - first:
+      213: 3186054867433614782
+    second: PixelTileSets_TopDown_21
+  - first:
+      213: 7640925666165770500
+    second: PixelTileSets_TopDown_22
+  - first:
+      213: 3742333082772502343
+    second: PixelTileSets_TopDown_23
+  - first:
+      213: -7097014216083985803
+    second: PixelTileSets_TopDown_24
+  - first:
+      213: -8896348146783919157
+    second: PixelTileSets_TopDown_25
+  - first:
+      213: -6530725849839497751
+    second: PixelTileSets_TopDown_26
+  - first:
+      213: -2563063542421427347
+    second: PixelTileSets_TopDown_27
+  - first:
+      213: -8988196663303296196
+    second: PixelTileSets_TopDown_28
+  - first:
+      213: 4044622483305213416
+    second: PixelTileSets_TopDown_29
+  - first:
+      213: -5151327008696617636
+    second: PixelTileSets_TopDown_30
+  - first:
+      213: 1255231277622426300
+    second: PixelTileSets_TopDown_31
+  - first:
+      213: 2183514239876841154
+    second: PixelTileSets_TopDown_32
+  - first:
+      213: -1987026210872287696
+    second: PixelTileSets_TopDown_33
+  - first:
+      213: -1490382159409418135
+    second: PixelTileSets_TopDown_34
+  - first:
+      213: -3978824659287371046
+    second: PixelTileSets_TopDown_35
+  - first:
+      213: 5159432291065929505
+    second: PixelTileSets_TopDown_36
+  - first:
+      213: -7560194808740189902
+    second: PixelTileSets_TopDown_37
+  - first:
+      213: 2082275379855707759
+    second: PixelTileSets_TopDown_38
+  - first:
+      213: -4358367902446589154
+    second: PixelTileSets_TopDown_39
+  - first:
+      213: 8769595931152588587
+    second: PixelTileSets_TopDown_40
+  - first:
+      213: -7432447131116617934
+    second: PixelTileSets_TopDown_41
+  - first:
+      213: 4729713772779807444
+    second: PixelTileSets_TopDown_42
+  - first:
+      213: 3242749217292511023
+    second: PixelTileSets_TopDown_43
+  - first:
+      213: 3820242758216456498
+    second: PixelTileSets_TopDown_44
+  - first:
+      213: -4052113165710983960
+    second: PixelTileSets_TopDown_45
+  - first:
+      213: -8073004701107414058
+    second: PixelTileSets_TopDown_46
+  - first:
+      213: 2734734767474873300
+    second: PixelTileSets_TopDown_47
+  - first:
+      213: -374067364337902572
+    second: PixelTileSets_TopDown_48
+  - first:
+      213: 52995382245637743
+    second: PixelTileSets_TopDown_49
+  - first:
+      213: 254393597507114118
+    second: PixelTileSets_TopDown_50
+  - first:
+      213: -8850428525610355886
+    second: PixelTileSets_TopDown_51
+  - first:
+      213: 8136975687554331244
+    second: PixelTileSets_TopDown_52
+  - first:
+      213: 8782569359080845149
+    second: PixelTileSets_TopDown_53
+  - first:
+      213: 7970757161763785775
+    second: PixelTileSets_TopDown_54
+  - first:
+      213: -7857268728912692250
+    second: PixelTileSets_TopDown_55
+  - first:
+      213: 3998272094591596175
+    second: PixelTileSets_TopDown_56
+  - first:
+      213: 8028315365545919568
+    second: PixelTileSets_TopDown_57
+  - first:
+      213: -6499790102973036169
+    second: PixelTileSets_TopDown_58
+  - first:
+      213: 72949871750986371
+    second: PixelTileSets_TopDown_59
+  - first:
+      213: 4798209436875159224
+    second: PixelTileSets_TopDown_60
+  - first:
+      213: -6416232883419002040
+    second: PixelTileSets_TopDown_61
+  - first:
+      213: 2282352867150317587
+    second: PixelTileSets_TopDown_62
+  - first:
+      213: 3131532139066937304
+    second: PixelTileSets_TopDown_63
+  - first:
+      213: 4435103121680451211
+    second: PixelTileSets_TopDown_64
+  - first:
+      213: -764616573664913701
+    second: PixelTileSets_TopDown_65
+  - first:
+      213: -8981673266050334777
+    second: PixelTileSets_TopDown_66
+  - first:
+      213: 1887335333853354165
+    second: PixelTileSets_TopDown_67
+  - first:
+      213: -4748409181534095266
+    second: PixelTileSets_TopDown_68
+  - first:
+      213: 6016200726730312755
+    second: PixelTileSets_TopDown_69
+  - first:
+      213: 901277061267858538
+    second: PixelTileSets_TopDown_70
+  - first:
+      213: 4721668481072273644
+    second: PixelTileSets_TopDown_71
+  - first:
+      213: 4785474891891480489
+    second: PixelTileSets_TopDown_72
+  - first:
+      213: 1134763639687134232
+    second: PixelTileSets_TopDown_73
+  - first:
+      213: 7780018421526846960
+    second: PixelTileSets_TopDown_74
+  - first:
+      213: -957168899671427601
+    second: PixelTileSets_TopDown_75
+  - first:
+      213: -6884566681622360142
+    second: PixelTileSets_TopDown_76
+  - first:
+      213: 8634677335843629290
+    second: PixelTileSets_TopDown_77
+  - first:
+      213: -8715783688172252585
+    second: PixelTileSets_TopDown_78
+  - first:
+      213: -8863474166522590397
+    second: PixelTileSets_TopDown_79
+  - first:
+      213: 4827208927321192865
+    second: PixelTileSets_TopDown_80
+  - first:
+      213: -8121845393705243902
+    second: PixelTileSets_TopDown_81
+  - first:
+      213: -3793869528386999259
+    second: PixelTileSets_TopDown_82
+  - first:
+      213: -2517367557281511180
+    second: PixelTileSets_TopDown_83
+  - first:
+      213: -1731195436572829962
+    second: PixelTileSets_TopDown_84
+  - first:
+      213: 6589751136987510518
+    second: PixelTileSets_TopDown_85
+  - first:
+      213: 3861506666629222582
+    second: PixelTileSets_TopDown_86
+  - first:
+      213: -8701451526027191295
+    second: PixelTileSets_TopDown_87
+  - first:
+      213: 6745764260691848894
+    second: PixelTileSets_TopDown_88
+  - first:
+      213: -8918717513091161909
+    second: PixelTileSets_TopDown_89
+  - first:
+      213: 2479493298879251444
+    second: PixelTileSets_TopDown_90
+  - first:
+      213: -8087885650770800071
+    second: PixelTileSets_TopDown_91
+  - first:
+      213: 8603075331863366738
+    second: PixelTileSets_TopDown_92
+  - first:
+      213: 6420145981200647522
+    second: PixelTileSets_TopDown_93
+  - first:
+      213: -4459358769594112436
+    second: PixelTileSets_TopDown_94
+  - first:
+      213: 2145199423187241217
+    second: PixelTileSets_TopDown_95
+  - first:
+      213: -8573351425832959066
+    second: PixelTileSets_TopDown_96
+  - first:
+      213: -2556661781367415632
+    second: PixelTileSets_TopDown_97
+  - first:
+      213: -3853616349638586311
+    second: PixelTileSets_TopDown_98
+  - first:
+      213: 1986616525145360813
+    second: PixelTileSets_TopDown_99
+  - first:
+      213: 7372523186067862786
+    second: PixelTileSets_TopDown_100
+  - first:
+      213: 7807370249860378841
+    second: PixelTileSets_TopDown_101
+  - first:
+      213: 3027438263758737967
+    second: PixelTileSets_TopDown_102
+  - first:
+      213: 8025507671787828629
+    second: PixelTileSets_TopDown_103
+  - first:
+      213: 1555418813391679495
+    second: PixelTileSets_TopDown_104
+  - first:
+      213: 893749261795441979
+    second: PixelTileSets_TopDown_105
+  - first:
+      213: -5275399990743169389
+    second: PixelTileSets_TopDown_106
+  - first:
+      213: -5033852883802766588
+    second: PixelTileSets_TopDown_107
+  - first:
+      213: 7041659704708136068
+    second: PixelTileSets_TopDown_108
+  - first:
+      213: 3586560661545767726
+    second: PixelTileSets_TopDown_109
+  - first:
+      213: -6496288562447289550
+    second: PixelTileSets_TopDown_110
+  - first:
+      213: -3532625776094882531
+    second: PixelTileSets_TopDown_111
+  - first:
+      213: 8483656008554165159
+    second: PixelTileSets_TopDown_112
+  - first:
+      213: 3037828047304309029
+    second: PixelTileSets_TopDown_113
+  - first:
+      213: 6810495501912153185
+    second: PixelTileSets_TopDown_114
+  - first:
+      213: -8625359509967285774
+    second: PixelTileSets_TopDown_115
+  - first:
+      213: 2933727664347256738
+    second: PixelTileSets_TopDown_116
+  - first:
+      213: 2545357441868966427
+    second: PixelTileSets_TopDown_117
+  - first:
+      213: 7245518626520176808
+    second: PixelTileSets_TopDown_118
+  - first:
+      213: -8112426327189218017
+    second: PixelTileSets_TopDown_119
+  - first:
+      213: -300109774444218785
+    second: PixelTileSets_TopDown_120
+  - first:
+      213: -988795216059154493
+    second: PixelTileSets_TopDown_121
+  - first:
+      213: -8763931972296217679
+    second: PixelTileSets_TopDown_122
+  - first:
+      213: -8001673000752204178
+    second: PixelTileSets_TopDown_123
+  - first:
+      213: 2541116093386729371
+    second: PixelTileSets_TopDown_124
+  - first:
+      213: 436490987372409609
+    second: PixelTileSets_TopDown_125
+  - first:
+      213: 6896652828131507001
+    second: PixelTileSets_TopDown_126
+  - first:
+      213: 6732702576353328201
+    second: PixelTileSets_TopDown_127
+  - first:
+      213: 1154481658324761183
+    second: PixelTileSets_TopDown_128
+  - first:
+      213: 1149735978238269893
+    second: PixelTileSets_TopDown_129
+  - first:
+      213: 4153784471287702309
+    second: PixelTileSets_TopDown_130
+  - first:
+      213: 6320952709109926291
+    second: PixelTileSets_TopDown_131
+  - first:
+      213: 4560852773052305403
+    second: PixelTileSets_TopDown_132
+  - first:
+      213: -489939353350981756
+    second: PixelTileSets_TopDown_133
+  - first:
+      213: 1422646437034271539
+    second: PixelTileSets_TopDown_134
+  - first:
+      213: 2828709613561471059
+    second: PixelTileSets_TopDown_135
+  - first:
+      213: -6635905762676184937
+    second: PixelTileSets_TopDown_136
+  - first:
+      213: -2131881081871767911
+    second: PixelTileSets_TopDown_137
+  - first:
+      213: 4882650991441528824
+    second: PixelTileSets_TopDown_138
+  - first:
+      213: 3021485729334715338
+    second: PixelTileSets_TopDown_139
+  - first:
+      213: -5598380271541033641
+    second: PixelTileSets_TopDown_140
+  - first:
+      213: 2729308511599178622
+    second: PixelTileSets_TopDown_141
+  - first:
+      213: 9206912336920540416
+    second: PixelTileSets_TopDown_142
+  - first:
+      213: -3704340691855297264
+    second: PixelTileSets_TopDown_143
+  - first:
+      213: 6636342946443242475
+    second: PixelTileSets_TopDown_144
+  - first:
+      213: 532991497709860795
+    second: PixelTileSets_TopDown_145
+  - first:
+      213: 7908266714460766838
+    second: PixelTileSets_TopDown_146
+  - first:
+      213: 8950855566329946348
+    second: PixelTileSets_TopDown_147
+  - first:
+      213: -8611889338105999243
+    second: PixelTileSets_TopDown_148
+  - first:
+      213: -64682436848102480
+    second: PixelTileSets_TopDown_149
+  - first:
+      213: 5464572083199396048
+    second: PixelTileSets_TopDown_150
+  - first:
+      213: 4371864303598542306
+    second: PixelTileSets_TopDown_151
+  - first:
+      213: -4779705486266900152
+    second: PixelTileSets_TopDown_152
+  - first:
+      213: -9211864509082753885
+    second: PixelTileSets_TopDown_153
+  - first:
+      213: -4991817782614691296
+    second: PixelTileSets_TopDown_154
+  - first:
+      213: 7517891119083937081
+    second: PixelTileSets_TopDown_155
+  - first:
+      213: -4005841033923060213
+    second: PixelTileSets_TopDown_156
+  - first:
+      213: 1452388630275526885
+    second: PixelTileSets_TopDown_157
+  - first:
+      213: 4097007714059018417
+    second: PixelTileSets_TopDown_158
+  - first:
+      213: -8864605360208323466
+    second: PixelTileSets_TopDown_159
+  - first:
+      213: -4558575328343181854
+    second: PixelTileSets_TopDown_160
+  - first:
+      213: -7671946758619953735
+    second: PixelTileSets_TopDown_161
+  - first:
+      213: 4462500265836500785
+    second: PixelTileSets_TopDown_162
+  - first:
+      213: 1360818665544025623
+    second: PixelTileSets_TopDown_163
+  - first:
+      213: -5617413251651031872
+    second: PixelTileSets_TopDown_164
+  - first:
+      213: -6981904743450066108
+    second: PixelTileSets_TopDown_165
+  - first:
+      213: 8912418698497569609
+    second: PixelTileSets_TopDown_166
+  - first:
+      213: -3777596148668115234
+    second: PixelTileSets_TopDown_167
+  - first:
+      213: 1698202350267793025
+    second: PixelTileSets_TopDown_168
+  - first:
+      213: 4281744231125371242
+    second: PixelTileSets_TopDown_169
+  - first:
+      213: -7907455224561190918
+    second: PixelTileSets_TopDown_170
+  - first:
+      213: -2608387896126592241
+    second: PixelTileSets_TopDown_171
+  - first:
+      213: -3415329491771377364
+    second: PixelTileSets_TopDown_172
+  - first:
+      213: -1753367557231678277
+    second: PixelTileSets_TopDown_173
+  - first:
+      213: 4649590477040329548
+    second: PixelTileSets_TopDown_174
+  - first:
+      213: -3469368085622877579
+    second: PixelTileSets_TopDown_175
+  - first:
+      213: 471444027194511894
+    second: PixelTileSets_TopDown_176
+  - first:
+      213: -685813589957519864
+    second: PixelTileSets_TopDown_177
+  - first:
+      213: 3641593302708373188
+    second: PixelTileSets_TopDown_178
+  - first:
+      213: 6029982854500341474
+    second: PixelTileSets_TopDown_179
+  - first:
+      213: -1960077777305041452
+    second: PixelTileSets_TopDown_180
+  - first:
+      213: 285876733250902676
+    second: PixelTileSets_TopDown_181
+  - first:
+      213: 7553245872355597918
+    second: PixelTileSets_TopDown_182
+  - first:
+      213: 1797546383593839718
+    second: PixelTileSets_TopDown_183
+  - first:
+      213: 5221114851870150446
+    second: PixelTileSets_TopDown_184
+  - first:
+      213: -3650504029623998638
+    second: PixelTileSets_TopDown_185
+  - first:
+      213: -8329258149653697298
+    second: PixelTileSets_TopDown_186
+  - first:
+      213: 6058007350650933670
+    second: PixelTileSets_TopDown_187
+  - first:
+      213: 5796207750140974454
+    second: PixelTileSets_TopDown_188
+  - first:
+      213: 7463870601683569340
+    second: PixelTileSets_TopDown_189
+  - first:
+      213: 1367547873817873094
+    second: PixelTileSets_TopDown_190
+  - first:
+      213: 5834646432905997010
+    second: PixelTileSets_TopDown_191
+  - first:
+      213: -3889949706737039096
+    second: PixelTileSets_TopDown_192
+  - first:
+      213: 3969687763486918598
+    second: PixelTileSets_TopDown_193
+  - first:
+      213: -4303599030262161347
+    second: PixelTileSets_TopDown_194
+  - first:
+      213: 1779196811879568322
+    second: PixelTileSets_TopDown_195
+  - first:
+      213: 8675120780814979059
+    second: PixelTileSets_TopDown_196
+  - first:
+      213: 6311519111788570243
+    second: PixelTileSets_TopDown_197
+  - first:
+      213: 353818193966527590
+    second: PixelTileSets_TopDown_198
+  - first:
+      213: 6592825329818109157
+    second: PixelTileSets_TopDown_199
+  - first:
+      213: -7105338392518712269
+    second: PixelTileSets_TopDown_200
+  - first:
+      213: -109022836217342162
+    second: PixelTileSets_TopDown_201
+  - first:
+      213: 1619208014970907921
+    second: PixelTileSets_TopDown_202
+  - first:
+      213: -7341817965936633339
+    second: PixelTileSets_TopDown_203
+  - first:
+      213: -1516728818106321627
+    second: PixelTileSets_TopDown_204
+  - first:
+      213: -4264148562427122177
+    second: PixelTileSets_TopDown_205
+  - first:
+      213: 520868826019777775
+    second: PixelTileSets_TopDown_206
+  - first:
+      213: 6015890635706022836
+    second: PixelTileSets_TopDown_207
+  - first:
+      213: 4258125010025199341
+    second: PixelTileSets_TopDown_208
+  - first:
+      213: -8711752448166986230
+    second: PixelTileSets_TopDown_209
+  - first:
+      213: 7904371242712240597
+    second: PixelTileSets_TopDown_210
+  - first:
+      213: 4720629685666171022
+    second: PixelTileSets_TopDown_211
+  - first:
+      213: -5540233377210637549
+    second: PixelTileSets_TopDown_212
+  - first:
+      213: -6673863945523211795
+    second: PixelTileSets_TopDown_213
+  - first:
+      213: 4436052343809896831
+    second: PixelTileSets_TopDown_214
+  - first:
+      213: -4946036318724499698
+    second: PixelTileSets_TopDown_215
+  - first:
+      213: -7836230864138436425
+    second: PixelTileSets_TopDown_216
+  - first:
+      213: 6917207400639334441
+    second: PixelTileSets_TopDown_217
+  - first:
+      213: 1685020436397366355
+    second: PixelTileSets_TopDown_218
+  - first:
+      213: 5631936302803669574
+    second: PixelTileSets_TopDown_219
+  - first:
+      213: -2771908331221915605
+    second: PixelTileSets_TopDown_220
+  - first:
+      213: -269342827598644975
+    second: PixelTileSets_TopDown_221
+  - first:
+      213: 1544706882220799281
+    second: PixelTileSets_TopDown_222
+  - first:
+      213: -5678380357191052632
+    second: PixelTileSets_TopDown_223
+  - first:
+      213: -8647901459956702011
+    second: PixelTileSets_TopDown_224
+  - first:
+      213: 6198537142581261500
+    second: PixelTileSets_TopDown_225
+  - first:
+      213: 1630419400049616000
+    second: PixelTileSets_TopDown_226
+  - first:
+      213: -4736238243300299708
+    second: PixelTileSets_TopDown_227
+  - first:
+      213: -3829482310252704376
+    second: PixelTileSets_TopDown_228
+  - first:
+      213: 8228880946687012021
+    second: PixelTileSets_TopDown_229
+  - first:
+      213: 1942331110542254013
+    second: PixelTileSets_TopDown_230
+  - first:
+      213: -7902276635178469772
+    second: PixelTileSets_TopDown_231
+  - first:
+      213: -3645287300678935629
+    second: PixelTileSets_TopDown_232
+  - first:
+      213: 422488699537087578
+    second: PixelTileSets_TopDown_233
+  - first:
+      213: 8083481318223687285
+    second: PixelTileSets_TopDown_234
+  - first:
+      213: -5439610703856970840
+    second: PixelTileSets_TopDown_235
+  - first:
+      213: 6764154532071167757
+    second: PixelTileSets_TopDown_236
+  - first:
+      213: -5102184520736696810
+    second: PixelTileSets_TopDown_237
+  - first:
+      213: 7988470390394677351
+    second: PixelTileSets_TopDown_238
+  - first:
+      213: 3157530966810918987
+    second: PixelTileSets_TopDown_239
+  - first:
+      213: 3804411658858723190
+    second: PixelTileSets_TopDown_240
+  - first:
+      213: -4209635413569808861
+    second: PixelTileSets_TopDown_241
+  - first:
+      213: -9087982342886189626
+    second: PixelTileSets_TopDown_242
+  - first:
+      213: 7364013535597018399
+    second: PixelTileSets_TopDown_243
+  - first:
+      213: 8147599598745650327
+    second: PixelTileSets_TopDown_244
+  - first:
+      213: 7387902707748389910
+    second: PixelTileSets_TopDown_245
+  - first:
+      213: 6337724842628164493
+    second: PixelTileSets_TopDown_246
+  - first:
+      213: -7783511706293042776
+    second: PixelTileSets_TopDown_247
+  - first:
+      213: 1400104953224566970
+    second: PixelTileSets_TopDown_248
+  - first:
+      213: -6013081961871370628
+    second: PixelTileSets_TopDown_249
+  - first:
+      213: 2938264995696963167
+    second: PixelTileSets_TopDown_250
+  - first:
+      213: -5166468480976289337
+    second: PixelTileSets_TopDown_251
+  - first:
+      213: -3949721398641846145
+    second: PixelTileSets_TopDown_252
+  - first:
+      213: 5012704323567233172
+    second: PixelTileSets_TopDown_253
+  - first:
+      213: 3339897388098647137
+    second: PixelTileSets_TopDown_254
+  - first:
+      213: -65086396171684800
+    second: PixelTileSets_TopDown_255
+  - first:
+      213: 1691535524162232187
+    second: PixelTileSets_TopDown_256
+  - first:
+      213: -4932983063735978286
+    second: PixelTileSets_TopDown_257
+  - first:
+      213: 699405707467049293
+    second: PixelTileSets_TopDown_258
+  - first:
+      213: -8969427990130689513
+    second: PixelTileSets_TopDown_259
+  - first:
+      213: -3873493262861643400
+    second: PixelTileSets_TopDown_260
+  - first:
+      213: 2966504000667502742
+    second: PixelTileSets_TopDown_261
+  - first:
+      213: 8618292950387636436
+    second: PixelTileSets_TopDown_262
+  - first:
+      213: 4210427278231062474
+    second: PixelTileSets_TopDown_263
+  - first:
+      213: -1779705243645047413
+    second: PixelTileSets_TopDown_264
+  - first:
+      213: 8289661690198303918
+    second: PixelTileSets_TopDown_265
+  - first:
+      213: 3286746140712599654
+    second: PixelTileSets_TopDown_266
+  - first:
+      213: 4848944143812135948
+    second: PixelTileSets_TopDown_267
+  - first:
+      213: -1892811398679886264
+    second: PixelTileSets_TopDown_268
+  - first:
+      213: -4645775370160427442
+    second: PixelTileSets_TopDown_269
+  - first:
+      213: 4083472194502554484
+    second: PixelTileSets_TopDown_270
+  - first:
+      213: 7062804511089407280
+    second: PixelTileSets_TopDown_271
+  - first:
+      213: 1976005320791621343
+    second: PixelTileSets_TopDown_272
+  - first:
+      213: 7785372277769632766
+    second: PixelTileSets_TopDown_273
+  - first:
+      213: -7566629767627889572
+    second: PixelTileSets_TopDown_274
+  - first:
+      213: 1919233304096308338
+    second: PixelTileSets_TopDown_275
+  - first:
+      213: 5404897961544230735
+    second: PixelTileSets_TopDown_276
+  - first:
+      213: -4137370269395881215
+    second: PixelTileSets_TopDown_277
+  - first:
+      213: -6325647298192643196
+    second: PixelTileSets_TopDown_278
+  - first:
+      213: 7804402884722156702
+    second: PixelTileSets_TopDown_279
+  - first:
+      213: -6834130038325012044
+    second: PixelTileSets_TopDown_280
+  - first:
+      213: 2341794958081918641
+    second: PixelTileSets_TopDown_281
+  - first:
+      213: -3033466704148825803
+    second: PixelTileSets_TopDown_282
+  - first:
+      213: -9189193283373590647
+    second: PixelTileSets_TopDown_283
+  - first:
+      213: 5260009890805179918
+    second: PixelTileSets_TopDown_284
+  - first:
+      213: -3271468841406853731
+    second: PixelTileSets_TopDown_285
+  - first:
+      213: -5479698941133455289
+    second: PixelTileSets_TopDown_286
+  - first:
+      213: 7745387931527484794
+    second: PixelTileSets_TopDown_287
+  - first:
+      213: -8250038877297081951
+    second: PixelTileSets_TopDown_288
+  - first:
+      213: 3249372111739117546
+    second: PixelTileSets_TopDown_289
+  - first:
+      213: -660088853005700673
+    second: PixelTileSets_TopDown_290
+  - first:
+      213: -8257752262704586130
+    second: PixelTileSets_TopDown_291
+  - first:
+      213: 3038256051477016712
+    second: PixelTileSets_TopDown_292
+  - first:
+      213: 6237165696320266057
+    second: PixelTileSets_TopDown_293
+  - first:
+      213: 7617340027159808568
+    second: PixelTileSets_TopDown_294
+  - first:
+      213: -5478311958156403776
+    second: PixelTileSets_TopDown_295
+  - first:
+      213: 1505776777009235663
+    second: PixelTileSets_TopDown_296
+  - first:
+      213: -2807805595862384430
+    second: PixelTileSets_TopDown_297
+  - first:
+      213: -1921715368048811160
+    second: PixelTileSets_TopDown_298
+  - first:
+      213: -8728797458610850097
+    second: PixelTileSets_TopDown_299
+  - first:
+      213: -5998576789337669694
+    second: PixelTileSets_TopDown_300
+  - first:
+      213: -2006631800102055461
+    second: PixelTileSets_TopDown_301
+  - first:
+      213: -2917876420570446269
+    second: PixelTileSets_TopDown_302
+  - first:
+      213: 5941714427436711475
+    second: PixelTileSets_TopDown_303
+  - first:
+      213: -4109106872044825767
+    second: PixelTileSets_TopDown_304
+  - first:
+      213: -8984863425184053076
+    second: PixelTileSets_TopDown_305
+  - first:
+      213: -3995239252431546934
+    second: PixelTileSets_TopDown_306
+  - first:
+      213: -666796907813482427
+    second: PixelTileSets_TopDown_307
+  - first:
+      213: -1887229362926299474
+    second: PixelTileSets_TopDown_308
+  - first:
+      213: -7160915395980983665
+    second: PixelTileSets_TopDown_309
+  - first:
+      213: -683317608293406520
+    second: PixelTileSets_TopDown_310
+  - first:
+      213: 6984451249027898501
+    second: PixelTileSets_TopDown_311
+  - first:
+      213: -4163078065627141501
+    second: PixelTileSets_TopDown_312
+  - first:
+      213: -4754875788436481739
+    second: PixelTileSets_TopDown_313
+  - first:
+      213: 1925459698884170375
+    second: PixelTileSets_TopDown_314
+  - first:
+      213: -2031869752495346209
+    second: PixelTileSets_TopDown_315
+  - first:
+      213: 4912426088125990049
+    second: PixelTileSets_TopDown_316
+  - first:
+      213: -3260497638126785298
+    second: PixelTileSets_TopDown_317
+  - first:
+      213: -5937773400019250764
+    second: PixelTileSets_TopDown_318
+  - first:
+      213: -5750822453534313035
+    second: PixelTileSets_TopDown_319
+  - first:
+      213: 2026075650845898704
+    second: PixelTileSets_TopDown_320
+  - first:
+      213: -6454505018172798662
+    second: PixelTileSets_TopDown_321
+  - first:
+      213: -8048167936692693074
+    second: PixelTileSets_TopDown_322
+  - first:
+      213: 2187572149745956182
+    second: PixelTileSets_TopDown_323
+  - first:
+      213: 1356695890878050595
+    second: PixelTileSets_TopDown_0
+  - first:
+      213: 3723415831292122057
+    second: PixelTileSets_TopDown_1
+  - first:
+      213: -9198274500631011016
+    second: PixelTileSets_TopDown_2
+  - first:
+      213: -1413454301348345994
+    second: PixelTileSets_TopDown_3
+  - first:
+      213: 640677296290054673
+    second: PixelTileSets_TopDown_4
+  - first:
+      213: 1704204961413284961
+    second: PixelTileSets_TopDown_5
+  - first:
+      213: -5554527105039439541
+    second: PixelTileSets_TopDown_6
+  - first:
+      213: -515330698225519681
+    second: PixelTileSets_TopDown_7
+  - first:
+      213: 6598798182555502015
+    second: PixelTileSets_TopDown_8
+  - first:
+      213: 560940205756070248
+    second: PixelTileSets_TopDown_9
+  - first:
+      213: 7420714183973979855
+    second: PixelTileSets_TopDown_10
+  - first:
+      213: 2539826983124285297
+    second: PixelTileSets_TopDown_11
+  - first:
+      213: -7716983483863003959
+    second: PixelTileSets_TopDown_12
+  - first:
+      213: -1268720597985735997
+    second: PixelTileSets_TopDown_13
+  - first:
+      213: 4345207248849177683
+    second: PixelTileSets_TopDown_14
+  - first:
+      213: 4940875233591507684
+    second: PixelTileSets_TopDown_15
+  - first:
+      213: 9054070002008200461
+    second: PixelTileSets_TopDown_16
+  - first:
+      213: -849711803545172642
+    second: PixelTileSets_TopDown_17
+  - first:
+      213: 1741598989967073559
+    second: PixelTileSets_TopDown_18
+  - first:
+      213: -125627970408140981
+    second: PixelTileSets_TopDown_19
+  - first:
+      213: 8621370343601255363
+    second: PixelTileSets_TopDown_20
+  - first:
+      213: 168548773577096135
+    second: PixelTileSets_TopDown_21
+  - first:
+      213: 7158454019431007605
+    second: PixelTileSets_TopDown_22
+  - first:
+      213: -6723224635588109690
+    second: PixelTileSets_TopDown_23
+  - first:
+      213: -4743878791512936727
+    second: PixelTileSets_TopDown_24
+  - first:
+      213: 6383378381765881614
+    second: PixelTileSets_TopDown_25
+  - first:
+      213: -139310812022961724
+    second: PixelTileSets_TopDown_26
+  - first:
+      213: -5143704441113451500
+    second: PixelTileSets_TopDown_27
+  - first:
+      213: -117996809493293846
+    second: PixelTileSets_TopDown_28
+  - first:
+      213: 426596625267373719
+    second: PixelTileSets_TopDown_29
+  - first:
+      213: 5604873563024933115
+    second: PixelTileSets_TopDown_30
+  - first:
+      213: 7162199122212978729
+    second: PixelTileSets_TopDown_31
+  - first:
+      213: 382752721373110187
+    second: PixelTileSets_TopDown_32
+  - first:
+      213: -6872279693388596769
+    second: PixelTileSets_TopDown_33
+  - first:
+      213: -6873166468897184878
+    second: PixelTileSets_TopDown_34
+  - first:
+      213: -44899438901196502
+    second: PixelTileSets_TopDown_35
+  - first:
+      213: 5874709994180109485
+    second: PixelTileSets_TopDown_36
+  - first:
+      213: 1059106440182032447
+    second: PixelTileSets_TopDown_37
+  - first:
+      213: -3440746692123654100
+    second: PixelTileSets_TopDown_38
+  - first:
+      213: -6459752825941786732
+    second: PixelTileSets_TopDown_39
+  - first:
+      213: -8222700459671227510
+    second: PixelTileSets_TopDown_40
+  - first:
+      213: -4565999987810896012
+    second: PixelTileSets_TopDown_41
+  - first:
+      213: 1442720212026570615
+    second: PixelTileSets_TopDown_42
+  - first:
+      213: 4045548160409218332
+    second: PixelTileSets_TopDown_43
+  - first:
+      213: 5252988211170652407
+    second: PixelTileSets_TopDown_44
+  - first:
+      213: 5038315549111646296
+    second: PixelTileSets_TopDown_45
+  - first:
+      213: 8201747662189448409
+    second: PixelTileSets_TopDown_46
+  - first:
+      213: -3561676918995085822
+    second: PixelTileSets_TopDown_47
+  - first:
+      213: -7976395106033064119
+    second: PixelTileSets_TopDown_48
+  - first:
+      213: -6490782272630313203
+    second: PixelTileSets_TopDown_49
+  - first:
+      213: -4366352705299798631
+    second: PixelTileSets_TopDown_50
+  - first:
+      213: -8167609118736332372
+    second: PixelTileSets_TopDown_51
+  - first:
+      213: 6040749889604560695
+    second: PixelTileSets_TopDown_52
+  - first:
+      213: 388278929033506178
+    second: PixelTileSets_TopDown_53
+  - first:
+      213: 191053158758614506
+    second: PixelTileSets_TopDown_54
+  - first:
+      213: -200058779134134202
+    second: PixelTileSets_TopDown_55
+  - first:
+      213: -483012955802496152
+    second: PixelTileSets_TopDown_56
+  - first:
+      213: 4527808390740991109
+    second: PixelTileSets_TopDown_57
+  - first:
+      213: 5617373762622619888
+    second: PixelTileSets_TopDown_58
+  - first:
+      213: 419603658407080400
+    second: PixelTileSets_TopDown_59
+  - first:
+      213: 6282157111358366957
+    second: PixelTileSets_TopDown_60
+  - first:
+      213: -6500166943756734152
+    second: PixelTileSets_TopDown_61
+  - first:
+      213: 2652131590885451235
+    second: PixelTileSets_TopDown_62
+  - first:
+      213: 6740436094685123462
+    second: PixelTileSets_TopDown_63
+  - first:
+      213: 842068018144115195
+    second: PixelTileSets_TopDown_64
+  - first:
+      213: 8174567552305685551
+    second: PixelTileSets_TopDown_65
+  - first:
+      213: -8416394594778412830
+    second: PixelTileSets_TopDown_66
+  - first:
+      213: -3312461049937672676
+    second: PixelTileSets_TopDown_67
+  - first:
+      213: 4658442238201607487
+    second: PixelTileSets_TopDown_68
+  - first:
+      213: 6424952995392427886
+    second: PixelTileSets_TopDown_69
+  - first:
+      213: 2607892915165180322
+    second: PixelTileSets_TopDown_70
+  - first:
+      213: -897298193054116857
+    second: PixelTileSets_TopDown_71
+  - first:
+      213: 7605040042458353605
+    second: PixelTileSets_TopDown_72
+  - first:
+      213: 8736744940558739804
+    second: PixelTileSets_TopDown_73
+  - first:
+      213: 5550014543438440274
+    second: PixelTileSets_TopDown_74
+  - first:
+      213: -3068889470024736577
+    second: PixelTileSets_TopDown_75
+  - first:
+      213: 9087319948141260312
+    second: PixelTileSets_TopDown_76
+  - first:
+      213: -5631627740011708518
+    second: PixelTileSets_TopDown_77
+  - first:
+      213: -5799897106588979844
+    second: PixelTileSets_TopDown_78
+  - first:
+      213: 753450901620663649
+    second: PixelTileSets_TopDown_79
+  - first:
+      213: 1294062716097027014
+    second: PixelTileSets_TopDown_80
+  - first:
+      213: -7689463057030433887
+    second: PixelTileSets_TopDown_81
+  - first:
+      213: -7026165845671523122
+    second: PixelTileSets_TopDown_82
+  - first:
+      213: 8110524785523390546
+    second: PixelTileSets_TopDown_83
+  - first:
+      213: 2930671278653510171
+    second: PixelTileSets_TopDown_84
+  - first:
+      213: 3718965312876662437
+    second: PixelTileSets_TopDown_85
+  - first:
+      213: -7463545116953634563
+    second: PixelTileSets_TopDown_86
+  - first:
+      213: -6985021409293374952
+    second: PixelTileSets_TopDown_87
+  - first:
+      213: 2362596673272066472
+    second: PixelTileSets_TopDown_88
+  - first:
+      213: -7647535110886684478
+    second: PixelTileSets_TopDown_89
+  - first:
+      213: -7336668015291668697
+    second: PixelTileSets_TopDown_90
+  - first:
+      213: -6144266192699358759
+    second: PixelTileSets_TopDown_91
+  - first:
+      213: -6048990414816106086
+    second: PixelTileSets_TopDown_92
+  - first:
+      213: -6215878043920770864
+    second: PixelTileSets_TopDown_93
+  - first:
+      213: -8973991187189924972
+    second: PixelTileSets_TopDown_94
+  - first:
+      213: -1189133352655678677
+    second: PixelTileSets_TopDown_95
+  - first:
+      213: -1777038068616925715
+    second: PixelTileSets_TopDown_96
+  - first:
+      213: 8616026767515171657
+    second: PixelTileSets_TopDown_97
+  - first:
+      213: 8408419753493567705
+    second: PixelTileSets_TopDown_98
+  - first:
+      213: 7349974226348396487
+    second: PixelTileSets_TopDown_99
+  - first:
+      213: 6101312045800561211
+    second: PixelTileSets_TopDown_100
+  - first:
+      213: -2162897397896132744
+    second: PixelTileSets_TopDown_101
+  - first:
+      213: -5930301507317107072
+    second: PixelTileSets_TopDown_102
+  - first:
+      213: -5566551495214592461
+    second: PixelTileSets_TopDown_103
+  - first:
+      213: -2638152740942247435
+    second: PixelTileSets_TopDown_104
+  - first:
+      213: 2991771975642095
+    second: PixelTileSets_TopDown_105
+  - first:
+      213: 8033539027622088722
+    second: PixelTileSets_TopDown_106
+  - first:
+      213: 1337169266588125367
+    second: PixelTileSets_TopDown_107
+  - first:
+      213: 639694958662827932
+    second: PixelTileSets_TopDown_108
+  - first:
+      213: 2152626569567545378
+    second: PixelTileSets_TopDown_109
+  - first:
+      213: -1889075834673906649
+    second: PixelTileSets_TopDown_110
+  - first:
+      213: 2704713090382738455
+    second: PixelTileSets_TopDown_111
+  - first:
+      213: 508712470968627377
+    second: PixelTileSets_TopDown_112
+  - first:
+      213: -8052834808067180306
+    second: PixelTileSets_TopDown_113
+  - first:
+      213: -2074763548211621854
+    second: PixelTileSets_TopDown_114
+  - first:
+      213: 7291428775632529014
+    second: PixelTileSets_TopDown_115
+  - first:
+      213: 744170943838156459
+    second: PixelTileSets_TopDown_116
+  - first:
+      213: -6638394945889882578
+    second: PixelTileSets_TopDown_117
+  - first:
+      213: 6307844242388910391
+    second: PixelTileSets_TopDown_118
+  - first:
+      213: 2016895789946130191
+    second: PixelTileSets_TopDown_119
+  - first:
+      213: 727947937077838784
+    second: PixelTileSets_TopDown_120
+  - first:
+      213: -7770815155880750095
+    second: PixelTileSets_TopDown_121
+  - first:
+      213: 2966672351510871441
+    second: PixelTileSets_TopDown_122
+  - first:
+      213: -3438444023208165873
+    second: PixelTileSets_TopDown_123
+  - first:
+      213: -8858183538914371440
+    second: PixelTileSets_TopDown_124
+  - first:
+      213: 1764855036825428906
+    second: PixelTileSets_TopDown_125
+  - first:
+      213: 6770607567536746226
+    second: PixelTileSets_TopDown_126
+  - first:
+      213: -5274014219102400620
+    second: PixelTileSets_TopDown_127
+  - first:
+      213: -3414153451353416926
+    second: PixelTileSets_TopDown_128
+  - first:
+      213: 9119870546012629026
+    second: PixelTileSets_TopDown_129
+  - first:
+      213: 4550499230100357103
+    second: PixelTileSets_TopDown_130
+  - first:
+      213: -2163859449721743089
+    second: PixelTileSets_TopDown_131
+  - first:
+      213: -3951511997099982191
+    second: PixelTileSets_TopDown_132
+  - first:
+      213: -5902467142952028408
+    second: PixelTileSets_TopDown_133
+  - first:
+      213: 2134553838772757327
+    second: PixelTileSets_TopDown_134
+  - first:
+      213: -7054945222728251083
+    second: PixelTileSets_TopDown_135
+  - first:
+      213: 1759374427790377593
+    second: PixelTileSets_TopDown_136
+  - first:
+      213: -748326572968975485
+    second: PixelTileSets_TopDown_137
+  - first:
+      213: -7229462776107662437
+    second: PixelTileSets_TopDown_138
+  - first:
+      213: -9148727198568779670
+    second: PixelTileSets_TopDown_139
+  - first:
+      213: -3025760061558086456
+    second: PixelTileSets_TopDown_140
+  - first:
+      213: -42180780207696267
+    second: PixelTileSets_TopDown_141
+  - first:
+      213: -797677106176893725
+    second: PixelTileSets_TopDown_142
+  - first:
+      213: 1125040982058582477
+    second: PixelTileSets_TopDown_143
+  - first:
+      213: 5963060828026398220
+    second: PixelTileSets_TopDown_144
+  - first:
+      213: -5470718717093886523
+    second: PixelTileSets_TopDown_145
+  - first:
+      213: -6274368260962890920
+    second: PixelTileSets_TopDown_146
+  - first:
+      213: 3696511693337931493
+    second: PixelTileSets_TopDown_147
+  - first:
+      213: 7146370999034553913
+    second: PixelTileSets_TopDown_148
+  - first:
+      213: -2841493206421561023
+    second: PixelTileSets_TopDown_149
+  - first:
+      213: 7959968985737614793
+    second: PixelTileSets_TopDown_150
+  - first:
+      213: -7419704925601467342
+    second: PixelTileSets_TopDown_151
+  - first:
+      213: -5526441361979231172
+    second: PixelTileSets_TopDown_152
+  - first:
+      213: -7376797062046573988
+    second: PixelTileSets_TopDown_153
+  - first:
+      213: 5935591422110985395
+    second: PixelTileSets_TopDown_154
+  - first:
+      213: 8356764550606516985
+    second: PixelTileSets_TopDown_155
+  - first:
+      213: 9002105103273444153
+    second: PixelTileSets_TopDown_156
+  - first:
+      213: 1801760682674317707
+    second: PixelTileSets_TopDown_157
+  - first:
+      213: 6833737296053509383
+    second: PixelTileSets_TopDown_158
+  - first:
+      213: 800985663857675527
+    second: PixelTileSets_TopDown_159
+  - first:
+      213: 5721883335470481563
+    second: PixelTileSets_TopDown_160
+  - first:
+      213: 1913848235714328210
+    second: PixelTileSets_TopDown_161
+  - first:
+      213: -353176726009263499
+    second: PixelTileSets_TopDown_162
+  - first:
+      213: -503098867283539612
+    second: PixelTileSets_TopDown_163
+  - first:
+      213: 1591535245542013280
+    second: PixelTileSets_TopDown_164
+  - first:
+      213: -129047563668559533
+    second: PixelTileSets_TopDown_165
+  - first:
+      213: -834555830644555446
+    second: PixelTileSets_TopDown_166
+  - first:
+      213: 943371696712124273
+    second: PixelTileSets_TopDown_167
+  - first:
+      213: 1336777294085712852
+    second: PixelTileSets_TopDown_168
+  - first:
+      213: -5245728184301875882
+    second: PixelTileSets_TopDown_169
+  - first:
+      213: -6526669512778841154
+    second: PixelTileSets_TopDown_170
+  - first:
+      213: -6670009223522628263
+    second: PixelTileSets_TopDown_171
+  - first:
+      213: -1938468032125601058
+    second: PixelTileSets_TopDown_172
+  - first:
+      213: 5508635035933188678
+    second: PixelTileSets_TopDown_173
+  - first:
+      213: -7375027798181943917
+    second: PixelTileSets_TopDown_174
+  - first:
+      213: -2143993661062959697
+    second: PixelTileSets_TopDown_175
+  - first:
+      213: 5597400918655458580
+    second: PixelTileSets_TopDown_176
+  - first:
+      213: 7043569909036540987
+    second: PixelTileSets_TopDown_177
+  - first:
+      213: 4980530876158766817
+    second: PixelTileSets_TopDown_178
+  - first:
+      213: 5048724297913145332
+    second: PixelTileSets_TopDown_179
+  - first:
+      213: -6786359720748385429
+    second: PixelTileSets_TopDown_180
+  - first:
+      213: -1629435928039120304
+    second: PixelTileSets_TopDown_181
+  - first:
+      213: -1029350192658340521
+    second: PixelTileSets_TopDown_182
+  - first:
+      213: -8537176794629401593
+    second: PixelTileSets_TopDown_183
+  - first:
+      213: 8139032994729993654
+    second: PixelTileSets_TopDown_184
+  - first:
+      213: 8551290280009484705
+    second: PixelTileSets_TopDown_185
+  - first:
+      213: -4216366051434948842
+    second: PixelTileSets_TopDown_186
+  - first:
+      213: -4823221640076926274
+    second: PixelTileSets_TopDown_187
+  - first:
+      213: 2120790166433916475
+    second: PixelTileSets_TopDown_188
+  - first:
+      213: -334543629826913101
+    second: PixelTileSets_TopDown_189
+  - first:
+      213: -2458207396464049786
+    second: PixelTileSets_TopDown_190
+  - first:
+      213: 2365077139191599499
+    second: PixelTileSets_TopDown_191
+  - first:
+      213: 447798445012221296
+    second: PixelTileSets_TopDown_192
+  - first:
+      213: -8545518217283627184
+    second: PixelTileSets_TopDown_193
+  - first:
+      213: 7780724760174235840
+    second: PixelTileSets_TopDown_194
+  - first:
+      213: 5362630254016478798
+    second: PixelTileSets_TopDown_195
+  - first:
+      213: -3737785220326867034
+    second: PixelTileSets_TopDown_196
+  - first:
+      213: 7968620109794823270
+    second: PixelTileSets_TopDown_197
+  - first:
+      213: -2701009975968045177
+    second: PixelTileSets_TopDown_198
+  - first:
+      213: 2316733545030878157
+    second: PixelTileSets_TopDown_199
+  - first:
+      213: -2693637759635737533
+    second: PixelTileSets_TopDown_200
+  - first:
+      213: 1098960060646989670
+    second: PixelTileSets_TopDown_201
+  - first:
+      213: 9212483307281990880
+    second: PixelTileSets_TopDown_202
+  - first:
+      213: 942772689951297953
+    second: PixelTileSets_TopDown_203
+  - first:
+      213: -6143368705895595750
+    second: PixelTileSets_TopDown_204
+  - first:
+      213: 5343124133167833809
+    second: PixelTileSets_TopDown_205
+  - first:
+      213: 5549444303880846809
+    second: PixelTileSets_TopDown_206
+  - first:
+      213: 532001106317346784
+    second: PixelTileSets_TopDown_207
+  - first:
+      213: -5886013645081934379
+    second: PixelTileSets_TopDown_208
+  - first:
+      213: -3788335335634483648
+    second: PixelTileSets_TopDown_209
+  - first:
+      213: -4010305514600212400
+    second: PixelTileSets_TopDown_210
+  - first:
+      213: -4561808829373377768
+    second: PixelTileSets_TopDown_211
+  - first:
+      213: -3579915995796551805
+    second: PixelTileSets_TopDown_212
+  - first:
+      213: -5850450149531573190
+    second: PixelTileSets_TopDown_213
+  - first:
+      213: -5970742372316067665
+    second: PixelTileSets_TopDown_214
+  - first:
+      213: -5785856332515779233
+    second: PixelTileSets_TopDown_215
+  - first:
+      213: 2755392066935186650
+    second: PixelTileSets_TopDown_216
+  - first:
+      213: 5608309780836471222
+    second: PixelTileSets_TopDown_217
+  - first:
+      213: -405606857345953309
+    second: PixelTileSets_TopDown_218
+  - first:
+      213: 5167268212447178874
+    second: PixelTileSets_TopDown_219
+  - first:
+      213: -1609449545658223215
+    second: PixelTileSets_TopDown_220
+  - first:
+      213: -7089439837349788683
+    second: PixelTileSets_TopDown_221
+  - first:
+      213: -4847572200717674898
+    second: PixelTileSets_TopDown_222
+  - first:
+      213: 1911942432179072293
+    second: PixelTileSets_TopDown_223
+  - first:
+      213: -736825849821791126
+    second: PixelTileSets_TopDown_224
+  - first:
+      213: -2693509254101263746
+    second: PixelTileSets_TopDown_225
+  - first:
+      213: -5154728386570907491
+    second: PixelTileSets_TopDown_226
+  - first:
+      213: 6500539268982042273
+    second: PixelTileSets_TopDown_227
+  - first:
+      213: 6523681972432345023
+    second: PixelTileSets_TopDown_228
+  - first:
+      213: -1001960239384304813
+    second: PixelTileSets_TopDown_229
+  - first:
+      213: -8372384404399126018
+    second: PixelTileSets_TopDown_230
+  - first:
+      213: -3527253765621378120
+    second: PixelTileSets_TopDown_231
+  - first:
+      213: 823844352934318829
+    second: PixelTileSets_TopDown_232
+  - first:
+      213: 4887690337681158394
+    second: PixelTileSets_TopDown_233
+  - first:
+      213: -638947629496095072
+    second: PixelTileSets_TopDown_234
+  - first:
+      213: 2796573073400301049
+    second: PixelTileSets_TopDown_235
+  - first:
+      213: 4322827782696779192
+    second: PixelTileSets_TopDown_236
+  - first:
+      213: 6439871753016903789
+    second: PixelTileSets_TopDown_237
+  - first:
+      213: -3070236469168945970
+    second: PixelTileSets_TopDown_238
+  - first:
+      213: -170215930701668246
+    second: PixelTileSets_TopDown_239
+  - first:
+      213: -7502775201945379042
+    second: PixelTileSets_TopDown_240
+  - first:
+      213: -2734988527038891899
+    second: PixelTileSets_TopDown_241
+  - first:
+      213: 4690862309879532802
+    second: PixelTileSets_TopDown_242
+  - first:
+      213: 106919278686663927
+    second: PixelTileSets_TopDown_243
+  - first:
+      213: 6128260265071769162
+    second: PixelTileSets_TopDown_244
+  - first:
+      213: 3755095859717470186
+    second: PixelTileSets_TopDown_245
+  - first:
+      213: -8150618560138354473
+    second: PixelTileSets_TopDown_246
+  - first:
+      213: 6529962244371938146
+    second: PixelTileSets_TopDown_247
+  - first:
+      213: -5134112765334318480
+    second: PixelTileSets_TopDown_248
+  - first:
+      213: 6476739074308735061
+    second: PixelTileSets_TopDown_249
+  - first:
+      213: 4379000702725191123
+    second: PixelTileSets_TopDown_250
+  - first:
+      213: -4615646223777356334
+    second: PixelTileSets_TopDown_251
+  - first:
+      213: 7065354657419824852
+    second: PixelTileSets_TopDown_252
+  - first:
+      213: 5267218769101763021
+    second: PixelTileSets_TopDown_253
+  - first:
+      213: 8440923438039019890
+    second: PixelTileSets_TopDown_254
+  - first:
+      213: 6407971679294020791
+    second: PixelTileSets_TopDown_255
+  - first:
+      213: -4081785272888325563
+    second: PixelTileSets_TopDown_256
+  - first:
+      213: 8544374244044734962
+    second: PixelTileSets_TopDown_257
+  - first:
+      213: 6488934770780398496
+    second: PixelTileSets_TopDown_258
+  - first:
+      213: -1967480218174986468
+    second: PixelTileSets_TopDown_259
+  - first:
+      213: 3317826086456263372
+    second: PixelTileSets_TopDown_260
+  - first:
+      213: -8196838585589864533
+    second: PixelTileSets_TopDown_261
+  - first:
+      213: 8226013255913261212
+    second: PixelTileSets_TopDown_262
+  - first:
+      213: -9012804923201653811
+    second: PixelTileSets_TopDown_263
+  - first:
+      213: -4781153413025608080
+    second: PixelTileSets_TopDown_264
+  - first:
+      213: -1783654733019274296
+    second: PixelTileSets_TopDown_265
+  - first:
+      213: 1420842505917423602
+    second: PixelTileSets_TopDown_266
+  - first:
+      213: 6781062820176946486
+    second: PixelTileSets_TopDown_267
+  - first:
+      213: 8545599414395970150
+    second: PixelTileSets_TopDown_268
+  - first:
+      213: -4959680014691407166
+    second: PixelTileSets_TopDown_269
+  - first:
+      213: -4172244649424607992
+    second: PixelTileSets_TopDown_270
+  - first:
+      213: -2935265946526359961
+    second: PixelTileSets_TopDown_271
+  - first:
+      213: 560830196297396001
+    second: PixelTileSets_TopDown_272
+  - first:
+      213: -9162659197621027669
+    second: PixelTileSets_TopDown_273
+  - first:
+      213: -5923180004482986078
+    second: PixelTileSets_TopDown_274
+  - first:
+      213: 2727602582614551395
+    second: PixelTileSets_TopDown_275
+  - first:
+      213: -3082179412145206643
+    second: PixelTileSets_TopDown_276
+  - first:
+      213: 1247386877268077021
+    second: PixelTileSets_TopDown_277
+  - first:
+      213: -2446285456129473482
+    second: PixelTileSets_TopDown_278
+  - first:
+      213: -8034554139965888693
+    second: PixelTileSets_TopDown_279
+  - first:
+      213: -1320112373118645430
+    second: PixelTileSets_TopDown_280
+  - first:
+      213: 4451396561260248179
+    second: PixelTileSets_TopDown_281
+  - first:
+      213: 8794401758031979752
+    second: PixelTileSets_TopDown_282
+  - first:
+      213: 4390512383010858033
+    second: PixelTileSets_TopDown_283
+  - first:
+      213: -4204035358291275610
+    second: PixelTileSets_TopDown_284
+  - first:
+      213: -7693648927766250392
+    second: PixelTileSets_TopDown_285
+  - first:
+      213: -1013827530851186223
+    second: PixelTileSets_TopDown_286
+  - first:
+      213: -1544168451514597025
+    second: PixelTileSets_TopDown_287
+  - first:
+      213: -2420948107069839580
+    second: PixelTileSets_TopDown_288
+  - first:
+      213: 6486486800269737370
+    second: PixelTileSets_TopDown_289
+  - first:
+      213: -961277470046860628
+    second: PixelTileSets_TopDown_290
+  - first:
+      213: -9139964905345493319
+    second: PixelTileSets_TopDown_291
+  - first:
+      213: -5131058292956713080
+    second: PixelTileSets_TopDown_292
+  - first:
+      213: -6519505089026989010
+    second: PixelTileSets_TopDown_293
+  - first:
+      213: 859055514067873650
+    second: PixelTileSets_TopDown_294
+  - first:
+      213: -2704177955227460491
+    second: PixelTileSets_TopDown_295
+  - first:
+      213: -5507296287826937421
+    second: PixelTileSets_TopDown_296
+  - first:
+      213: 5661588339659602848
+    second: PixelTileSets_TopDown_297
+  - first:
+      213: -7159554925295291349
+    second: PixelTileSets_TopDown_298
+  - first:
+      213: 1573270101697339189
+    second: PixelTileSets_TopDown_299
+  - first:
+      213: -7373027664094885675
+    second: PixelTileSets_TopDown_300
+  - first:
+      213: -9062429278505025746
+    second: PixelTileSets_TopDown_301
+  - first:
+      213: -6339488457736589928
+    second: PixelTileSets_TopDown_302
+  - first:
+      213: 6818957087697924146
+    second: PixelTileSets_TopDown_303
+  - first:
+      213: 3929485663917858847
+    second: PixelTileSets_TopDown_304
+  - first:
+      213: -1025731911909013653
+    second: PixelTileSets_TopDown_305
+  - first:
+      213: -1605423118537955031
+    second: PixelTileSets_TopDown_306
+  - first:
+      213: -6315617707234070096
+    second: PixelTileSets_TopDown_307
+  - first:
+      213: 1219440853722894264
+    second: PixelTileSets_TopDown_308
+  - first:
+      213: 4906572438049966798
+    second: PixelTileSets_TopDown_309
+  - first:
+      213: -3017592894345530951
+    second: PixelTileSets_TopDown_310
+  - first:
+      213: -1790643370979667011
+    second: PixelTileSets_TopDown_311
+  - first:
+      213: 6496585491819106840
+    second: PixelTileSets_TopDown_312
+  - first:
+      213: 2258933222328935900
+    second: PixelTileSets_TopDown_313
+  - first:
+      213: -8696917434336680698
+    second: PixelTileSets_TopDown_314
+  - first:
+      213: -8721166406151078404
+    second: PixelTileSets_TopDown_315
+  - first:
+      213: 375261707357370025
+    second: PixelTileSets_TopDown_316
+  - first:
+      213: -1907524639167144593
+    second: PixelTileSets_TopDown_317
+  - first:
+      213: -3513483519343681372
+    second: PixelTileSets_TopDown_318
+  - first:
+      213: -5367506385954589027
+    second: PixelTileSets_TopDown_319
+  - first:
+      213: -2538584232354058956
+    second: PixelTileSets_TopDown_320
+  - first:
+      213: -5955293013487769691
+    second: PixelTileSets_TopDown_321
+  - first:
+      213: 4218933633110169860
+    second: PixelTileSets_TopDown_322
+  - first:
+      213: 351178086564764414
+    second: PixelTileSets_TopDown_323
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b40489b3f3d210800000000000000
+      internalID: 1356695890878050595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39b3798fa3ca330800000000000000
+      internalID: 3723415831292122057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ea53831a295080800000000000000
+      internalID: -9198274500631011016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67742ed3dc6626ce0800000000000000
+      internalID: -1413454301348345994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112c6054b9424e800800000000000000
+      internalID: 640677296290054673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644f75126d86a710800000000000000
+      internalID: 1704204961413284961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4968d0f60b5ae2b0800000000000000
+      internalID: -5554527105039439541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f966d57d29d8f0800000000000000
+      internalID: -515330698225519681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c6bf2cf3a39b50800000000000000
+      internalID: 6598798182555502015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8693358252cd8c700800000000000000
+      internalID: 560940205756070248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c873db3cabf660800000000000000
+      internalID: 7420714183973979855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17733104f274f3320800000000000000
+      internalID: 2539826983124285297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0ac26864c7e490800000000000000
+      internalID: -7716983483863003959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac6dd8659946ee0800000000000000
+      internalID: -1268720597985735997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8b1f88f64d4c30800000000000000
+      internalID: 4345207248849177683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3fb9d8d3819440800000000000000
+      internalID: 4940875233591507684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05183142b486ad70800000000000000
+      internalID: 9054070002008200461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55cb3cdd973534f0800000000000000
+      internalID: -849711803545172642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711aa22dd076b2810800000000000000
+      internalID: 1741598989967073559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f28f9c60ea14ef0800000000000000
+      internalID: -125627970408140981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b07746a245a770800000000000000
+      internalID: 8621370343601255363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf360773ec65200800000000000000
+      internalID: 168548773577096135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750729e000f75360800000000000000
+      internalID: 7158454019431007605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9d9aa0de42b2a0800000000000000
+      internalID: -6723224635588109690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeac5e8f5b5a2eb0800000000000000
+      internalID: -4743878791512936727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f201051d0569850800000000000000
+      internalID: 6383378381765881614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90008fd81111ef0800000000000000
+      internalID: -139310812022961724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41465d53014ed98b0800000000000000
+      internalID: -5143704441113451500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d585e68acc5ef0800000000000000
+      internalID: -117996809493293846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963177de539be500800000000000000
+      internalID: 426596625267373719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf044174fc288cd40800000000000000
+      internalID: 5604873563024933115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9208e1a972e356360800000000000000
+      internalID: 7162199122212978729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf124a729fcf4500800000000000000
+      internalID: 382752721373110187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9317e9702c0a0a0800000000000000
+      internalID: -6872279693388596769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e14b138b9d90a0800000000000000
+      internalID: -6873166468897184878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290eadb23c706ff0800000000000000
+      internalID: -44899438901196502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ea893d99278150800000000000000
+      internalID: 5874709994180109485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38e06a22b3b2be00800000000000000
+      internalID: 1059106440182032447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c288ed50d130040d0800000000000000
+      internalID: -3440746692123654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff9e0b7095a56a0800000000000000
+      internalID: -6459752825941786732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fad66f7913ed80800000000000000
+      internalID: -8222700459671227510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f71ae33f42a0c0800000000000000
+      internalID: -4565999987810896012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777be149362950410800000000000000
+      internalID: 1442720212026570615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2dee1e9ca42830800000000000000
+      internalID: 4045548160409218332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0342052fc56e840800000000000000
+      internalID: 5252988211170652407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858702b3c41bbe540800000000000000
+      internalID: 5038315549111646296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc41364b0672d170800000000000000
+      internalID: 8201747662189448409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206179676b1629ec0800000000000000
+      internalID: -3561676918995085822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9472cbc69e62e4190800000000000000
+      internalID: -7976395106033064119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa775a9eb1ce5a0800000000000000
+      internalID: -6490782272630313203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9952a8439599763c0800000000000000
+      internalID: -4366352705299798631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ca75c7c2d6ae80800000000000000
+      internalID: -8167609118736332372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372cd2f40e05d350800000000000000
+      internalID: 6040749889604560695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dafc6f0a1736500800000000000000
+      internalID: 388278929033506178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5060de5d1c6a200800000000000000
+      internalID: 191053158758614506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f28fa99f393df0800000000000000
+      internalID: -200058779134134202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631b7b964efb49f0800000000000000
+      internalID: -483012955802496152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c5625fdb106de30800000000000000
+      internalID: 4527808390740991109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f088bbccabe4fd40800000000000000
+      internalID: 5617373762622619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1fecddd4bb2d500800000000000000
+      internalID: 419603658407080400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a5b5cb94be2750800000000000000
+      internalID: 6282157111358366957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831b4a0aa94cac5a0800000000000000
+      internalID: -6500166943756734152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5a15c51a34ec420800000000000000
+      internalID: 2652131590885451235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839dee6ae6da8d50800000000000000
+      internalID: 6740436094685123462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9723aa660afab00800000000000000
+      internalID: 842068018144115195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246d9bc0e5e17170800000000000000
+      internalID: 8174567552305685551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e807b045b5f23b80800000000000000
+      internalID: -8416394594778412830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c52aa936c702d0800000000000000
+      internalID: -3312461049937672676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35beaeb88c16a040800000000000000
+      internalID: 4658442238201607487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6792fc55b40a2950800000000000000
+      internalID: 6424952995392427886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1bda40ac8113420800000000000000
+      internalID: 2607892915165180322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d8692c082c83f0800000000000000
+      internalID: -897298193054116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0a5910a78a8960800000000000000
+      internalID: 7605040042458353605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e133fb372f3970800000000000000
+      internalID: 8736744940558739804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25766ef62dc950d40800000000000000
+      internalID: 5550014543438440274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02d34694d1965d0800000000000000
+      internalID: -3068889470024736577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee74d9855ac1e70800000000000000
+      internalID: 9087319948141260312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fbd59786078d1b0800000000000000
+      internalID: -5631627740011708518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da2fb8f40a28fa0800000000000000
+      internalID: -5799897106588979844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652cc26a9bc47a00800000000000000
+      internalID: 753450901620663649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelTileSets_TopDown_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb5a0e1f2f65f110800000000000000
+      internalID: 1294062716097027014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
