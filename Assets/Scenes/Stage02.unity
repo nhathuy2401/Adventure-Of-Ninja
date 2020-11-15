@@ -18000,7 +18000,7 @@ GameObject:
   - component: {fileID: 1386052002}
   - component: {fileID: 1386052001}
   - component: {fileID: 1386052003}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Foreground
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23611,7 +23611,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3541879861880549891, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
       propertyPath: m_Layer
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3541879861880549900, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
       propertyPath: m_LocalPosition.x
