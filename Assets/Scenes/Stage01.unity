@@ -6392,8 +6392,8 @@ MonoBehaviour:
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.15
-  m_DeadZoneHeight: 0.1
+  m_DeadZoneWidth: 0.68
+  m_DeadZoneHeight: 0.36
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -44164,7 +44164,7 @@ GameObject:
   - component: {fileID: 1454819537}
   - component: {fileID: 1454819536}
   - component: {fileID: 1454819538}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: 'Ground '
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -44337,7 +44337,7 @@ TilemapCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1454819534}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -44407,7 +44407,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664657159}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.7999983, y: -1.4, z: -10}
+  m_LocalPosition: {x: 7.799999, y: -1.4, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 475715678}
