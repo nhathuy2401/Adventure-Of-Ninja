@@ -17,8 +17,8 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
+  - Enemy
+  - Damageable
   - 
   - 
   - 
@@ -47,18 +47,21 @@ TagManager:
   - name: Background
     uniqueID: 1626038483
     locked: 0
+  - name: Enemy
+    uniqueID: 2709105465
+    locked: 0
+  - name: Foreground
+    uniqueID: 3995725517
+    locked: 0
   - name: background2
     uniqueID: 2073974685
     locked: 0
   - name: Natural
     uniqueID: 3352015441
     locked: 0
-  - name: Foreground
-    uniqueID: 3995725517
-    locked: 0
   - name: Ground
     uniqueID: 4171864575
     locked: 0
-  - name: Enemy
-    uniqueID: 2709105465
+  - name: Entity
+    uniqueID: 157270131
     locked: 0
