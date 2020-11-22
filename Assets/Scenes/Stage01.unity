@@ -44464,7 +44464,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664657159}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 7.799999, y: -1.4, z: -10}
+=======
+  m_LocalPosition: {x: 4.1199994, y: -1.5, z: -10}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 475715678}
@@ -45739,7 +45743,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2005846360}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 7.799999, y: -1.4, z: -10}
+=======
+  m_LocalPosition: {x: 8.027081, y: -1.5075698, z: -10}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -45860,6 +45868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4da9c7424319728428f98a4b4dae7ab5, type: 3}
+<<<<<<< Updated upstream
 --- !u!1001 &5290800554968702737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -45917,3 +45926,5 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 618f3e9d347ad264fa59ccb18be52929, type: 3}
+=======
+>>>>>>> Stashed changes
