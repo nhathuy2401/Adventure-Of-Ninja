@@ -22,6 +22,8 @@ public class PlayerController : MonoBehaviour
     float shootTime;
     bool keyShootRelease;
 
+    //  private float[] attackDetails = new float[2];
+
     // Start is called before the first frame update
     void Start()
     {
