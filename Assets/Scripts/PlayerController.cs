@@ -182,6 +182,7 @@ public class PlayerController : MonoBehaviour
                 if (isShooting)
                 {
                     animator.Play("Player_Shoot");
+                
                 }
                 else
                 {
