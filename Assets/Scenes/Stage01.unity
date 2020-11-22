@@ -123,6 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1001 &64994196
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -196,6 +197,8 @@ PrefabInstance:
       objectReference: {fileID: 1036138534}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 645ae48d04a0ddf48b35e28a8eba0a6f, type: 3}
+=======
+>>>>>>> parent of b2b5dc9... pause menu
 --- !u!1 &97407756
 GameObject:
   m_ObjectHideFlags: 0
@@ -6363,6 +6366,7 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1500
   m_ExtrusionFactor: 0.00001
+<<<<<<< HEAD
 --- !u!1001 &221386066
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6420,6 +6424,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 618f3e9d347ad264fa59ccb18be52929, type: 3}
+=======
+>>>>>>> parent of b2b5dc9... pause menu
 --- !u!1 &446490488
 GameObject:
   m_ObjectHideFlags: 0
@@ -6554,11 +6560,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!4 &922185512 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8332643660868760492, guid: 645ae48d04a0ddf48b35e28a8eba0a6f, type: 3}
   m_PrefabInstance: {fileID: 64994196}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of b2b5dc9... pause menu
 --- !u!1001 &971954232
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6625,6 +6634,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3541879861880549900, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
   m_PrefabInstance: {fileID: 971954232}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &1036138533
 GameObject:
   m_ObjectHideFlags: 0
@@ -6655,6 +6665,8 @@ Transform:
   m_Father: {fileID: 922185512}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of b2b5dc9... pause menu
 --- !u!1 &1192145635
 GameObject:
   m_ObjectHideFlags: 0
@@ -44572,7 +44584,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664657159}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.299999, y: -1.5, z: -10}
+=======
+  m_LocalPosition: {x: 7.799999, y: -1.4, z: -10}
+>>>>>>> parent of b2b5dc9... pause menu
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 475715678}
@@ -45916,7 +45932,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2005846360}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.299999, y: -1.5, z: -10}
+=======
+  m_LocalPosition: {x: 8.010257, y: -1.4017714, z: -10}
+>>>>>>> parent of b2b5dc9... pause menu
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
