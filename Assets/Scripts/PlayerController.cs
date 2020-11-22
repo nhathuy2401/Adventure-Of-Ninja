@@ -11,6 +11,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float moveSpeed = 1.5f;
     [SerializeField] float jumpSpeed = 3.7f;
 
+    [SerializeField] int bulletDamage = 1;
+    [SerializeField] float bulletSpeed = 5f;
+    [SerializeField] Transform bulletShootPos;
+    [SerializeField] GameObject bulletPrefab;
+
     float keyHorizontal;
     bool keyJump;
     bool keyShoot;
@@ -64,8 +69,10 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         PlayerDirectionInput();
+        PlayerJumpInput();
         PlayerShootInput();
         PlayerMovement();
+
     }
 
     void PlayerDirectionInput()
@@ -75,11 +82,21 @@ public class PlayerController : MonoBehaviour
         keyJump = Input.GetKeyDown(KeyCode.Space);
         keyShoot = Input.GetKey(KeyCode.C);
     }
+    void PlayerJumpInput()
+    {
+       
+
+        keyShoot = Input.GetKey(KeyCode.Space);
+       
+    }    
 
     void PlayerShootInput()
     {
         float shootTimeLength = 0;
         float keyShootReleaseTimeLength = 0;
+
+
+        keyShoot = Input.GetKey(KeyCode.C);
 
         // shoot key is being pressed and key release flag true
         if (keyShoot && keyShootRelease)
@@ -88,7 +105,7 @@ public class PlayerController : MonoBehaviour
             keyShootRelease = false;
             shootTime = Time.time;
             // Shoot Bullet
-            Debug.Log("Shoot Bullet");
+            ShootBullet();
         }
         // shoot key isn't being pressed and key release flag is false
         if (!keyShoot && !keyShootRelease)
@@ -211,4 +228,18 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight;
         transform.Rotate(0f, 180f, 0f);
     }
+    void ShootBullet()
+    {
+        GameObject bullet = Instantiate(bulletPrefab, bulletShootPos.position, Quaternion.identity);
+
+        bullet.name = bulletPrefab.name;
+        bullet.GetComponent<BulletScript>().SetDamageValue(bulletDamage);
+        bullet.GetComponent<BulletScript>().SetBulletSpeed(bulletSpeed);
+        bullet.GetComponent<BulletScript>().SetBulletDirection((isFacingRight) ? Vector2.right : Vector2.left);
+        bullet.GetComponent<BulletScript>().Shoot();
+
+         
+
+
+    }    
 }
