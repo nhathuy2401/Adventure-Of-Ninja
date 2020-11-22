@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 3541879861880549889}
   - component: {fileID: 3541879861880549888}
   - component: {fileID: 3541879861880549901}
+  - component: {fileID: 2035673244}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -174,7 +175,7 @@ MonoBehaviour:
   bulletDamage: 1
   bulletSpeed: 10
   bulletShootPos: {fileID: 1866129173}
-  bulletPrefab: {fileID: 3737387643391624605, guid: d5bf24e5e78b5ca4d825ae40caf657e4, type: 3}
+  bulletPrefab: {fileID: 3737387643391624605, guid: 4a436e083ffe36b4bb5dd01e7ece2622, type: 3}
 --- !u!61 &3541879861880549901
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -201,3 +202,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.3071651, y: 4.3766737}
   m_EdgeRadius: 0
+--- !u!114 &2035673244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3541879861880549891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9606ff48c1f2e41ba38f6b647a9440, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 1
+  bulletSpeed: 5
+  bulletDirection: {x: 0, y: 0}
+  destroyDelay: 2
