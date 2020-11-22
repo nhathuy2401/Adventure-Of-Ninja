@@ -51,10 +51,22 @@ public class PaseMenu : MonoBehaviour
         Time.timeScale = 1f;    
         SceneManager.LoadScene("MainMenu");
     }
+    public void Reload()
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
 
     public void QuitGame()
     {
-        Debug.Log("Quitting game...");
+        {
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+
+#else
         Application.Quit();
+
+#endif
+        }
     }
 }
