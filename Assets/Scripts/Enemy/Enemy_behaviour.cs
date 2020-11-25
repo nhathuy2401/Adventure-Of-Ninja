@@ -11,9 +11,6 @@ using UnityEngine;
 public class Enemy_behaviour : MonoBehaviour
 {
     #region Public Variables
-    //public Transform rayCast;
-    //public LayerMask raycastMask;
-   // public float rayCastLength;
     public float attackDistance; //Minimum distance for attack
     public float moveSpeed;
     public float timer; //Timer for cooldown between attacks

@@ -9,17 +9,16 @@ public class HotZoneCheck : MonoBehaviour
     private Animator anim;
     private void Awake()
     {
-        enemyParent = GetComponent<Enemy_behaviour>();
-        anim = GetComponent<Animator>();
+        enemyParent = GetComponentInParent<Enemy_behaviour>();
+        anim = GetComponentInParent<Animator>();
     }
     private void Update()
     {
-        if(inRange && !anim.GetCurrentAnimatorStateInfo(0).IsName("Boss_attack"))
+        if (inRange && !anim.GetCurrentAnimatorStateInfo(0).IsName("Boss_attack"))
         {
             enemyParent.Flip();
         }
     }
-
     private void OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.gameObject.CompareTag("Player"))
@@ -27,6 +26,7 @@ public class HotZoneCheck : MonoBehaviour
             inRange = true;
         }
     }
+
     private void OnTriggerExit2D(Collider2D collider)
     {
         if (collider.gameObject.CompareTag("Player"))
@@ -34,7 +34,7 @@ public class HotZoneCheck : MonoBehaviour
             inRange = false;
             gameObject.SetActive(false);
             enemyParent.triggerArea.SetActive(true);
-            enemyParent.inRange = true;
+            enemyParent.inRange = false;
             enemyParent.SelectTarget();
         }
     }

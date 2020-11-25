@@ -8,7 +8,7 @@ public class TriggerAreaCheck : MonoBehaviour
 
     private void Awake()
     {
-        enemyParent = GetComponent<Enemy_behaviour>();
+        enemyParent = GetComponentInParent<Enemy_behaviour>();
     }
 
     private void OnTriggerEnter2D(Collider2D collider)

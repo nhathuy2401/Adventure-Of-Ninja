@@ -45151,6 +45151,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3541879861880549888, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
+      propertyPath: bulletPrefab
+      value: 
+      objectReference: {fileID: 3737387643391624605, guid: 8ede0b8ee831e0349b6013b5e03d165b, type: 3}
     - target: {fileID: 3541879861880549891, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
       propertyPath: m_Name
       value: Player
@@ -45198,6 +45202,14 @@ PrefabInstance:
     - target: {fileID: 3541879861880549900, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3541879861880549903, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -123102721
+      objectReference: {fileID: 0}
+    - target: {fileID: 3541879861880549903, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}
+      propertyPath: m_SortingLayer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b42f6c282a198648b19f4be41a69e2c, type: 3}

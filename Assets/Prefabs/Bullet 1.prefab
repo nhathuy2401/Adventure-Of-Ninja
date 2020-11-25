@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3737387643391624606}
   - component: {fileID: 3737387643391624604}
   - component: {fileID: 189037448}
-  - component: {fileID: 2297801484404842062}
+  - component: {fileID: 4598809927235119786}
   m_Layer: 0
   m_Name: Bullet 1
   m_TagString: Untagged
@@ -71,8 +71,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 157270131
-  m_SortingLayer: 7
+  m_SortingLayerID: -123102721
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: f0c1af57cb10f1f48a39503671778800, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -132,7 +132,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 9.81, y: 1.8982606}
   m_EdgeRadius: 0
---- !u!114 &2297801484404842062
+--- !u!114 &4598809927235119786
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -141,10 +141,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 3737387643391624605}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e9606ff48c1f2e41ba38f6b647a9440, type: 3}
+  m_Script: {fileID: 11500000, guid: 50bf18e9770f560489882a90cfd7daf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
   bulletSpeed: 20
   bulletDirection: {x: 0, y: 0}
-  destroyDelay: 1
+  destroyDelay: 2
