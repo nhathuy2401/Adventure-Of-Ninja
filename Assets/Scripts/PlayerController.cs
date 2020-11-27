@@ -1,12 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
     Animator animator;
     BoxCollider2D box2d;
     Rigidbody2D rb2d;
+    private Collider2D coll;
+
+
 
     [SerializeField] float moveSpeed = 1.5f;
     [SerializeField] float jumpSpeed = 3.7f;
@@ -15,6 +19,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float bulletSpeed = 5f;
     [SerializeField] Transform bulletShootPos;
     [SerializeField] GameObject bulletPrefab;
+    [SerializeField] private int Coin = 0;
+    [SerializeField] private Text CoinText;
 
     float keyHorizontal;
     bool keyJump;
@@ -34,6 +40,8 @@ public class PlayerController : MonoBehaviour
     public int currentHealth;
     public int maxHealth = 28;
 
+
+
     //  private float[] attackDetails = new float[2];
 
     // Start is called before the first frame update
@@ -42,6 +50,7 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
         box2d = GetComponent<BoxCollider2D>();
         rb2d = GetComponent<Rigidbody2D>();
+        coll = GetComponent<Collider2D>();
 
         // sprite defaults to facing right
         isFacingRight = true;
@@ -81,7 +90,7 @@ public class PlayerController : MonoBehaviour
         {
             animator.Play("Player_Hit");
             return;
-        }    
+        }
 
 
         PlayerDirectionInput();
@@ -100,11 +109,11 @@ public class PlayerController : MonoBehaviour
     }
     void PlayerJumpInput()
     {
-       
+
 
         keyShoot = Input.GetKey(KeyCode.Space);
-       
-    }    
+
+    }
 
     void PlayerShootInput()
     {
@@ -254,26 +263,26 @@ public class PlayerController : MonoBehaviour
         bullet.GetComponent<BulletScript>().SetBulletDirection((isFacingRight) ? Vector2.right : Vector2.left);
         bullet.GetComponent<BulletScript>().Shoot();
 
-         
 
 
-    }    
+
+    }
     public void HitSide(bool rightSide)
     {
         hitSideRight = rightSide;
-    }    
+    }
     public void Invincible(bool invincibility)
     {
         isInvincible = invincibility;
-    }   
+    }
     public void TakeDamage(int damage)
     {
-        if(!isInvincible)
+        if (!isInvincible)
         {
             currentHealth -= damage;
             Mathf.Clamp(currentHealth, 0, maxHealth);
             UIHealthBar.instance.SetValue(currentHealth / (float)maxHealth);
-            if(currentHealth <=0)
+            if (currentHealth <= 0)
             {
                 Defeat();
             }
@@ -281,8 +290,8 @@ public class PlayerController : MonoBehaviour
             {
                 StartDamageAnimation();
             }
-        }    
-    }   
+        }
+    }
     void StartDamageAnimation()
     {
         if (!isTakingDamage)
@@ -294,17 +303,43 @@ public class PlayerController : MonoBehaviour
             if (hitSideRight) hitForceX = -hitForceX;
             rb2d.velocity = Vector2.zero;
             rb2d.AddForce(new Vector2(hitForceX, hitForceY), ForceMode2D.Impulse);
-        }    
-    }  
+        }
+    }
     void StopDamageAnimation()
     {
         isTakingDamage = false;
         isInvincible = false;
         animator.Play("Player_Hit", -1, 0f);
 
-    }   
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Collectable")
+        {
+            Destroy(collision.gameObject);
+            Coin += 1;
+            CoinText.text = Coin.ToString();
+        }
+        if (collision.tag == "Powerup")
+        {
+            Destroy(collision.gameObject);
+            bulletDamage = 50;
+            bulletSpeed = 50f;
+            GetComponent<SpriteRenderer>().color = Color.red;
+            StartCoroutine(ResetPower());
+        }
+
+    }
+    private IEnumerator ResetPower()
+    {
+        yield return new WaitForSeconds(10);
+        bulletDamage = 10;
+        bulletSpeed = 20;
+        GetComponent<SpriteRenderer>().color = Color.white;
+    }
     void Defeat ()
     {
         Destroy(gameObject);
-    }    
+    }
+    
 }

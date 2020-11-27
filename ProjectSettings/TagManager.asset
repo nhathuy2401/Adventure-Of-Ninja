@@ -7,6 +7,8 @@ TagManager:
   - Ground
   - Enemy
   - ground
+  - Collectable
+  - Powerup
   layers:
   - Default
   - TransparentFX
@@ -20,7 +22,7 @@ TagManager:
   - Enemy
   - Damageable
   - Player
-  - 
+  - Coin
   - 
   - 
   - 
@@ -64,4 +66,7 @@ TagManager:
     locked: 0
   - name: Entity
     uniqueID: 157270131
+    locked: 0
+  - name: Coin
+    uniqueID: 2298397779
     locked: 0
