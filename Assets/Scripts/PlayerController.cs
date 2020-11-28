@@ -39,6 +39,11 @@ public class PlayerController : MonoBehaviour
 
     public int currentHealth;
     public int maxHealth = 28;
+    public static GameController instance;
+    public Text scoreText;
+    public Text gameOverScoreText;
+    public GameObject gameOverText;
+    public bool isGameOver = false;
 
 
 
@@ -315,12 +320,12 @@ public class PlayerController : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Collectable")
-        {
-            Destroy(collision.gameObject);
-            Coin += 1;
-            CoinText.text = Coin.ToString();
-        }
+        // if (collision.tag == "Collectable")
+        //   {
+        //Destroy(collision.gameObject);
+        //         Coin += 1;
+        //         CoinText.text = Coin.ToString();
+        //    }
         if (collision.tag == "Powerup")
         {
             Destroy(collision.gameObject);
@@ -330,6 +335,7 @@ public class PlayerController : MonoBehaviour
             StartCoroutine(ResetPower());
         }
 
+
     }
     private IEnumerator ResetPower()
     {
@@ -338,9 +344,10 @@ public class PlayerController : MonoBehaviour
         bulletSpeed = 20;
         GetComponent<SpriteRenderer>().color = Color.white;
     }
-    void Defeat ()
+    void Defeat()
     {
         Destroy(gameObject);
     }
-    
 }
+  
+    

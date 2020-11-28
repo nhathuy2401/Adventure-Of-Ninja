@@ -44,6 +44,7 @@ GameObject:
   - component: {fileID: 3541879861880549889}
   - component: {fileID: 3541879861880549888}
   - component: {fileID: 3541879861880549901}
+  - component: {fileID: 1105649092}
   m_Layer: 11
   m_Name: Player
   m_TagString: Player
@@ -171,10 +172,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpSpeed: 8
-  bulletDamage: 1
+  bulletDamage: 10
   bulletSpeed: 10
   bulletShootPos: {fileID: 1866129173}
-  bulletPrefab: {fileID: 3737387643391624605, guid: 8ede0b8ee831e0349b6013b5e03d165b, type: 3}
+  bulletPrefab: {fileID: 3737387643391624605, guid: d5bf24e5e78b5ca4d825ae40caf657e4, type: 3}
+  Coin: 0
+  CoinText: {fileID: 0}
+  currentHealth: 0
+  maxHealth: 5
+  scoreText: {fileID: 0}
+  gameOverScoreText: {fileID: 0}
+  gameOverText: {fileID: 0}
+  isGameOver: 0
 --- !u!61 &3541879861880549901
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -201,3 +210,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.3071651, y: 4.3766737}
   m_EdgeRadius: 0
+--- !u!114 &1105649092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3541879861880549891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b3ce47e28a2004399ab2c2e3d3f335, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loseHight: -10
