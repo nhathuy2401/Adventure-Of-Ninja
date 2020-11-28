@@ -1,12 +1,16 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
     Animator animator;
     BoxCollider2D box2d;
     Rigidbody2D rb2d;
+    private Collider2D coll;
+
+
 
     [SerializeField] float moveSpeed = 1.5f;
     [SerializeField] float jumpSpeed = 3.7f;
@@ -15,6 +19,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float bulletSpeed = 5f;
     [SerializeField] Transform bulletShootPos;
     [SerializeField] GameObject bulletPrefab;
+    [SerializeField] private int Coin = 0;
+    [SerializeField] private Text CoinText;
 
     float keyHorizontal;
     bool keyJump;
@@ -22,10 +28,19 @@ public class PlayerController : MonoBehaviour
 
     bool isGrounded;
     bool isShooting;
+    bool isTakingDamage;
+    bool isInvincible;
     bool isFacingRight;
+
+    bool hitSideRight;
 
     float shootTime;
     bool keyShootRelease;
+
+    public int currentHealth;
+    public int maxHealth = 28;
+
+
 
     //  private float[] attackDetails = new float[2];
 
@@ -35,9 +50,12 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
         box2d = GetComponent<BoxCollider2D>();
         rb2d = GetComponent<Rigidbody2D>();
+        coll = GetComponent<Collider2D>();
 
         // sprite defaults to facing right
         isFacingRight = true;
+
+        currentHealth = maxHealth;
     }
 
     private void FixedUpdate()
@@ -68,6 +86,13 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (isTakingDamage)
+        {
+            animator.Play("Player_Hit");
+            return;
+        }
+
+
         PlayerDirectionInput();
         PlayerJumpInput();
         PlayerShootInput();
@@ -84,11 +109,11 @@ public class PlayerController : MonoBehaviour
     }
     void PlayerJumpInput()
     {
-       
+
 
         keyShoot = Input.GetKey(KeyCode.Space);
-       
-    }    
+
+    }
 
     void PlayerShootInput()
     {
@@ -105,7 +130,7 @@ public class PlayerController : MonoBehaviour
             keyShootRelease = false;
             shootTime = Time.time;
             // Shoot Bullet
-            ShootBullet();
+            Invoke("ShootBullet", 0.1f);
         }
         // shoot key isn't being pressed and key release flag is false
         if (!keyShoot && !keyShootRelease)
@@ -239,8 +264,83 @@ public class PlayerController : MonoBehaviour
         bullet.GetComponent<BulletScript>().SetBulletDirection((isFacingRight) ? Vector2.right : Vector2.left);
         bullet.GetComponent<BulletScript>().Shoot();
 
-         
 
 
-    }    
+
+    }
+    public void HitSide(bool rightSide)
+    {
+        hitSideRight = rightSide;
+    }
+    public void Invincible(bool invincibility)
+    {
+        isInvincible = invincibility;
+    }
+    public void TakeDamage(int damage)
+    {
+        if (!isInvincible)
+        {
+            currentHealth -= damage;
+            Mathf.Clamp(currentHealth, 0, maxHealth);
+            UIHealthBar.instance.SetValue(currentHealth / (float)maxHealth);
+            if (currentHealth <= 0)
+            {
+                Defeat();
+            }
+            else
+            {
+                StartDamageAnimation();
+            }
+        }
+    }
+    void StartDamageAnimation()
+    {
+        if (!isTakingDamage)
+        {
+            isTakingDamage = true;
+            isInvincible = true;
+            float hitForceX = 0.50f;
+            float hitForceY = 1.5f;
+            if (hitSideRight) hitForceX = -hitForceX;
+            rb2d.velocity = Vector2.zero;
+            rb2d.AddForce(new Vector2(hitForceX, hitForceY), ForceMode2D.Impulse);
+        }
+    }
+    void StopDamageAnimation()
+    {
+        isTakingDamage = false;
+        isInvincible = false;
+        animator.Play("Player_Hit", -1, 0f);
+
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Collectable")
+        {
+            Destroy(collision.gameObject);
+            Coin += 1;
+            CoinText.text = Coin.ToString();
+        }
+        if (collision.tag == "Powerup")
+        {
+            Destroy(collision.gameObject);
+            bulletDamage = 50;
+            bulletSpeed = 50f;
+            GetComponent<SpriteRenderer>().color = Color.red;
+            StartCoroutine(ResetPower());
+        }
+
+    }
+    private IEnumerator ResetPower()
+    {
+        yield return new WaitForSeconds(10);
+        bulletDamage = 10;
+        bulletSpeed = 20;
+        GetComponent<SpriteRenderer>().color = Color.white;
+    }
+    void Defeat ()
+    {
+        Destroy(gameObject);
+    }
+    
 }
