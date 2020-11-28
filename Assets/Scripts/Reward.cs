@@ -6,7 +6,7 @@ public class Reward : MonoBehaviour
 
 {
 
-    public int Coin = 100;
+    public int Coin = 10;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

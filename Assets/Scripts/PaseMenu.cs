@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class PaseMenu : MonoBehaviour
+public class PaseMenu : GameController
 {
 
     public static bool GameisPaused = false;
@@ -55,7 +55,11 @@ public class PaseMenu : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+
+
     }
+
 
     public void QuitGame()
     {
@@ -69,4 +73,5 @@ public class PaseMenu : MonoBehaviour
 #endif
         }
     }
+
 }

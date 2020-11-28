@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
+
 public class GameController : MonoBehaviour
 {
 
@@ -14,9 +15,9 @@ public class GameController : MonoBehaviour
     public GameObject gameOverText;
     public bool isGameOver = false;
 
-    private static int Coin = 0;
+    private static int score = 0;
 
-    public void Awake()
+    private void Awake()
     {
         if (instance == null)
         {
@@ -26,18 +27,21 @@ public class GameController : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        AddScore(0);
+        score = 0;
+        score = PlayerPrefs.GetInt("Score: " + score);
+        
     }
     public void AddScore(int src)
     {
-        Coin = src;
-        scoreText.text = "Kunai :  " + Coin;
+        score += src;
+        scoreText.text = "Score: " + score;
     }
     public void GameOver()
     {
         isGameOver = true;
         Time.timeScale = 0;
-       // gameOverScoreText.text = "Final Kunai :" + Coin;
+        gameOverScoreText.text = "Final Score:" + score;
         gameOverText.SetActive(true);
     }
+    
 }

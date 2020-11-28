@@ -319,12 +319,12 @@ public class PlayerController : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-       // if (collision.tag == "Collectable")
-     //   {
-//Destroy(collision.gameObject);
-   //         Coin += 1;
-   //         CoinText.text = Coin.ToString();
-    //    }
+        // if (collision.tag == "Collectable")
+        //   {
+        //Destroy(collision.gameObject);
+        //         Coin += 1;
+        //         CoinText.text = Coin.ToString();
+        //    }
         if (collision.tag == "Powerup")
         {
             Destroy(collision.gameObject);
@@ -333,7 +333,7 @@ public class PlayerController : MonoBehaviour
             GetComponent<SpriteRenderer>().color = Color.red;
             StartCoroutine(ResetPower());
         }
-     
+
 
     }
     private IEnumerator ResetPower()
@@ -343,13 +343,10 @@ public class PlayerController : MonoBehaviour
         bulletSpeed = 20;
         GetComponent<SpriteRenderer>().color = Color.white;
     }
-    void Defeat ()
+    void Defeat()
     {
         Destroy(gameObject);
     }
-  
-    public void GameOver()
-    {
-       
-    }
 }
+  
+    

@@ -12,7 +12,7 @@ public class Lose : MonoBehaviour
         if (gameObject.transform.position.y < loseHight)
         {
             gameObject.SetActive(false);
-            PlayerController.instance.GameOver();
+            GameController.instance.GameOver();
             Time.timeScale = 0;
         }
     }
